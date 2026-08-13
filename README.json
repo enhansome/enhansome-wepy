@@ -1,0 +1,2091 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "微信小程序WePY框架开发资源汇总"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "wxYuHanStore：基于wepy开发的商城(微店)微信小程序",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-05-18T07:02:57Z",
+            "owner": "dyq086",
+            "repo": "wepy-mall",
+            "stars": 3385
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "leshare-food-wepy：基于微信小程序的外卖店铺，采用wepy框架开发",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-01-03T07:35:26Z",
+            "owner": "coolhwm",
+            "repo": "leshare-shop-wepy",
+            "stars": 850
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "leshare-seller-wepy：基于小程序的电商卖家端，采用wepy框架开发",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-08-01T12:33:13Z",
+            "owner": "coolhwm",
+            "repo": "leshare-seller-wepy",
+            "stars": 702
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "we川大：使用wepy框架开发的校园综合类小程序",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vue",
+            "last_commit": "2020-06-02T16:17:16Z",
+            "owner": "mohuishou",
+            "repo": "scuplus-wechat",
+            "stars": 691
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wepy-wechat-demo：基于wepy开发的仿微信聊天界面小程序",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-06T16:46:15Z",
+            "owner": "wepyjs",
+            "repo": "wepy-wechat-demo",
+            "stars": 535
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "weapp-poem: 诗词墨客",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-11-28T09:22:35Z",
+            "owner": "nslogx",
+            "repo": "weapp-poem",
+            "stars": 505
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jiezhang: 基于wepy开发的记账小程序",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-21T02:42:38Z",
+            "owner": "yigger",
+            "repo": "jiezhang",
+            "stars": 483
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sdb-mall: 直播小程序拼团商城",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-11-18T08:06:45Z",
+            "owner": "yjjdick",
+            "repo": "sdb-mall",
+            "stars": 430
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wepy-books：微信小程序wepy版图书管理系统",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-05-06T09:00:11Z",
+            "owner": "KingJeason",
+            "repo": "wepy-books",
+            "stars": 390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "计生记mp-jishengji: 日常生活记录类的小程序",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-03-14T13:53:32Z",
+            "owner": "seymoe",
+            "repo": "mp-jishengji",
+            "stars": 350
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "深大的树洞：基于wepy开发的树洞类微信小程序",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-07-30T03:41:58Z",
+            "owner": "jas0ncn",
+            "repo": "szushudong",
+            "stars": 305
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wepy-demo-bookmall：微信小程序🐼📖代码示例，使用wepy框架及weui样式开发",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-03-12T01:49:36Z",
+            "owner": "Thunf",
+            "repo": "wepy-demo-bookmall",
+            "stars": 282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "weapp-hiapp：使用wepy+zanui+redux开发的社区类小程序开源版",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2019-10-15T08:20:30Z",
+            "owner": "BelinChung",
+            "repo": "weapp-hiapp",
+            "stars": 236
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wepy_ios_top: 一款可以切换国家查看不同国家iOS应用排行榜的小程序",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2020-06-23T07:06:19Z",
+            "owner": "szpnygo",
+            "repo": "wepy_ios_top",
+            "stars": 193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shanbay-mina: 基于wepy框架的“扇贝阅读”微信小程序",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-12-24T17:57:40Z",
+            "owner": "yshkk",
+            "repo": "shanbay-mina",
+            "stars": 177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wepy-ufutx-library：友福图书馆(基于Thunf's bookmall, 持续开发共享)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-20T14:04:29Z",
+            "owner": "glore",
+            "repo": "library",
+            "stars": 163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "steedos: 华炎微站、微商城，含SAAS服务端",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2019-08-27T02:54:51Z",
+            "owner": "steedos",
+            "repo": "mini-vip",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fashion-mall：服装购物商城，基于 wepy，有本地服务器可测试学习",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-18T21:12:03Z",
+            "owner": "weimingwill",
+            "repo": "fashion-mall",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "larabbs-weapp：使用 wepy 开发的论坛类小程序，对接 Laravel 开发的 REST 风格接口",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2022-06-26T16:06:21Z",
+            "owner": "summerblue",
+            "repo": "larabbs-weapp",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "newBadminton羽球自由赛: 基于wepy开发的羽毛球活动组织工具小程序",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2023-03-01T18:22:40Z",
+            "owner": "jasscia",
+            "repo": "newBadminton",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sea-ai: 基于wepy和云开发的图像智能Ai小程序(接入百度AI平台)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-05-25T03:07:33Z",
+            "owner": "lxljl",
+            "repo": "sea-ai",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cardiovascular-tracker：使用wepy框架开发的心血管健康助理小程序",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2017-09-24T01:13:48Z",
+            "owner": "hjkcai",
+            "repo": "cardiovascular-tracker",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wepy-one：微信小程序one(wepy版本)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-02-24T05:47:58Z",
+            "owner": "huangang",
+            "repo": "wepy-one",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nearby: 周边生活导航",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-07-30T08:39:00Z",
+            "owner": "jackdizhu",
+            "repo": "WePY_app",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wepyshop: 基于wepy的商城小程序",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-05-18T02:46:55Z",
+            "owner": "huangxifuhxf",
+            "repo": "wepyshop",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "有趣视频(youqu): 基于WePY开发, 模仿开眼App的一个视频小程序",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2020-12-01T02:50:13Z",
+            "owner": "terryso",
+            "repo": "youqu",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WordGame-wepy: 基于wepy实现的微信小程序，一款文字游戏",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-04-07T12:27:20Z",
+            "owner": "zh8637688",
+            "repo": "WordGame-wepy",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scrum-planning: Scrum敏捷估算",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-11T22:22:36Z",
+            "owner": "yociduo",
+            "repo": "scrum-planning-poker",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wx_iciba: 金山词霸(iciba)基于微信小程序wepy版本",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-03-12T14:42:03Z",
+            "owner": "Anonlyy",
+            "repo": "wx_iciba",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wepy-jmgs：使用wepy+七牛云开发的音视频社交小程序(server代码开源)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-05-15T04:54:56Z",
+            "owner": "g1mi",
+            "repo": "JMGS",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wepy-nideshop: wepy版nideshop商城小程序",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-02-24T05:44:51Z",
+            "owner": "huangang",
+            "repo": "wepy-nideshop",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wepy-douban: 基于WePY开发的豆瓣电影小程序",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-02-06T03:18:56Z",
+            "owner": "chenwenjin888",
+            "repo": "wepy-douban",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WEAPP_GNB_PRIMARY: 基于wepy开发的小学错题归纳本小程序",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-09-11T09:17:53Z",
+            "owner": "Kyncc",
+            "repo": "WEAPP_GNB_PRIMARY",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "emotion-weapp: 基于wepy开发的表情演员小程序",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-09-24T03:48:29Z",
+            "owner": "royalrick",
+            "repo": "emotion-weapp",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wxMusic: 微信小程序音乐",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-04-08T01:59:14Z",
+            "owner": "huxinmin",
+            "repo": "wxMusic",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kedouWechat: 蝌蚪物流的微信小程序 基于wepy框架",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-04-27T03:04:33Z",
+            "owner": "niuhuahua",
+            "repo": "kedouWechat",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wepy-nba: NBA在线直播小程序",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2018-04-20T08:36:04Z",
+            "owner": "oOBobbyOo",
+            "repo": "wepy-nba",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WEAPP_GNB_MIDDLE: 基于wepy开发的中学错题归纳本小程序",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-09-11T09:17:24Z",
+            "owner": "Kyncc",
+            "repo": "WEAPP_GNB_MIDDLE",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BORK: 领养流浪宠物平台小程序",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-07-31T13:06:24Z",
+            "owner": "johncalvinroberts",
+            "repo": "bork-mini-program",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2048wepy: 基于wepy的微信小程序-2048游戏",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-11-21T01:55:31Z",
+            "owner": "Hansenleee",
+            "repo": "2048wepy",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AsBiLi：基于wepy开发的仿B站小程序",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-04-08T06:12:56Z",
+            "owner": "GitHubAFeng",
+            "repo": "AsBiLi",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChatWall-WePy: WePY + WildDog + Vue 群聊弹幕小程序",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-03-10T08:54:34Z",
+            "owner": "MiGongOrg",
+            "repo": "ChatWall-WePy",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TuCaoQiang: 基于wepy开发的吐槽墙小程序",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-04-30T05:36:00Z",
+            "owner": "yimogit",
+            "repo": "TuCaoQiang",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "weapp-color-weather: a weapp of weather",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-03-26T06:24:41Z",
+            "owner": "cycjimmy",
+            "repo": "weapp-color-weather",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DLWepyRedux: 使用Redux开发的Todo List, 真实Wepy项目中使用Redux",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-05-01T04:08:08Z",
+            "owner": "Liqiankun",
+            "repo": "DLWepyRedux",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aboo-wx-applet: 基于wepy开发的阿布跑跑小程序",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-03-23T06:42:26Z",
+            "owner": "abc02",
+            "repo": "aboo-wx-applet",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wechat-qipaceyan: 奇葩小测验",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-01-23T03:01:56Z",
+            "owner": "AJLoveChina",
+            "repo": "wechat-qipaceyan",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "233次元：基于wepy和云开发的二次元动漫资讯小程序",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-02-12T08:15:35Z",
+            "owner": "233point",
+            "repo": "applet",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "salo-mobilemini: 沙龙Salotto",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-11-27T20:34:13Z",
+            "owner": "PUNOLEE",
+            "repo": "Salo-wechat-mini",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wx-wepy-k: 基于wepy框架的微信小程序K线图demo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-02-10T09:10:36Z",
+            "owner": "AWeiJie",
+            "repo": "project_wepy_k",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wepy-Jz：使用wepy框架开发的电商类小程序",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "wepy-dota: wepy写的dota 09对战平台小程序",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "huofanr-wx: wepy + wxParse + sass + pug + async await + zanUI + MinUI 搭建的微信小程序",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "wepy-invoice: \"物联网\"验证系统",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "wechat-wepy-v2ex: V2EX 的克隆项目，基于wepy开发的小程序",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "xb-song: 基于wepy开发的简约好看古诗词小程序",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "WePY开源项目"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "UI类组件",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "wepy-weui-demo：WeUI在WePY中的使用示例，同一份代码可以运行在小程序上和Web上",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "CSS",
+                "last_commit": "2020-10-02T08:04:52Z",
+                "owner": "wepyjs",
+                "repo": "wepy-weui-demo",
+                "stars": 379
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-zanui-demo：基于zanui-weapp移植的一套wepy界面框架",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "CSS",
+                "last_commit": "2018-05-10T08:09:50Z",
+                "owner": "brucx",
+                "repo": "wepy-zanui-demo",
+                "stars": 236
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kai-ui：基于WePY框架的高颜值、高效率组件库",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-11-23T01:46:59Z",
+                "owner": "Chaunjie",
+                "repo": "kai-ui",
+                "stars": 212
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-com-toast：微信小程序toast组件",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2017-04-13T08:30:49Z",
+                "owner": "wepyjs",
+                "repo": "wepy-com-toast",
+                "stars": 105
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-X-minui：蘑菇街minui小程序UI组件库wepy版",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2018-05-02T08:28:01Z",
+                "owner": "jimmyrogue",
+                "repo": "wepy-X-minui",
+                "stars": 102
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-com-swiper：微信小程序触摸内容滑动解决方案，适用于wepy框架",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-10-10T06:19:54Z",
+                "owner": "we-plugin",
+                "repo": "wepy-com-swiper",
+                "stars": 76
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-com-loadings：基于Wepy开发的微信小程序loading加载动画组件",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "CSS",
+                "last_commit": "2018-05-10T07:17:56Z",
+                "owner": "Licoy",
+                "repo": "wepy-com-loadings",
+                "stars": 69
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-com-charts：基于微信小程序canvas的图表控件，适用于wepy框架",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-05-17T08:12:49Z",
+                "owner": "CalvinHong",
+                "repo": "wepy-com-charts",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-com-inaver: 基于wepy框架的系统状态导航栏组件",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-04-04T08:50:41Z",
+                "owner": "HellyW",
+                "repo": "wepy-com-inaver",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-nices: 点赞动画插件",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "CSS",
+                "last_commit": "2018-05-25T03:12:07Z",
+                "owner": "callmesoul",
+                "repo": "wepy-nices",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-calendar：基于wepy 的日历组件",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-11-05T06:21:51Z",
+                "owner": "callmesoul",
+                "repo": "wepy-calendar",
+                "stars": 36
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "we-city-select: 城市选择组件（基于wepy）",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2018-02-11T12:00:47Z",
+                "owner": "shmy",
+                "repo": "we-city-select",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-com-calendar：基于 wepy 的日历组件，内置多种主题，功能完备，使用友好",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2019-03-07T03:58:52Z",
+                "owner": "ronffy",
+                "repo": "wepy-com-calendar",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-swipe-delete：微信小程序框架wepy-滑动删除插件",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2018-02-01T02:46:38Z",
+                "owner": "GeoffZhu",
+                "repo": "wepy-swipe-delete",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-com-icityer: 基于wepy框架的中国省市区选择组件",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-04-04T08:45:42Z",
+                "owner": "HellyW",
+                "repo": "wepy-com-icityer",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-com-pwdfield：微信小程序明密文输入框组件，适用于支付密码/房间号/验证码输入",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2018-01-19T03:46:53Z",
+                "owner": "colmugx",
+                "repo": "wepy-com-pwdfield",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-notice-bar：一个可以滚动的通知栏",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2020-12-05T08:50:33Z",
+                "owner": "Liqiankun",
+                "repo": "wepy-notice-bar",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-com-navbar: 基于wepy的NavBar组件",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2017-10-29T03:01:26Z",
+                "owner": "chenyangcun",
+                "repo": "wepy-com-navbar",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-match-input：微信小程序 wepyjs 第三方 动态匹配输入框插件",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "CSS",
+                "last_commit": "2018-05-25T03:15:56Z",
+                "owner": "callmesoul",
+                "repo": "wepy-match-input",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "leshare-map-weapp：基于微信小程序的地图展现工具，使用wepy框架及weui样式开发",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2017-09-24T06:44:21Z",
+                "owner": "coolhwm",
+                "repo": "leshare-map-weapp",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-message：基于wepy 的类toast 消息提示",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "CSS",
+                "last_commit": "2018-03-22T08:54:58Z",
+                "owner": "callmesoul",
+                "repo": "wepy-message",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-com-iviewer: 基于wepy框架的Modal和Toast组件",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-04-04T08:49:32Z",
+                "owner": "HellyW",
+                "repo": "wepy-com-iviewer",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-com-selectab：微信小程序标签选择组件，适用于数量等某些单选操作",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2018-01-19T03:53:42Z",
+                "owner": "colmugx",
+                "repo": "wepy-com-selectab",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "spore-wepy-tipbox：类toast提示窗口，但只显示文字，可调整显示位置。用于小程序wepy框架",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-06-20T09:45:36Z",
+                "owner": "SporeUI",
+                "repo": "spore-wepy-tipbox",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-com-progress-circle：基于Wepy框架的圆形进度条",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-07-21T06:39:24Z",
+                "owner": "ronffy",
+                "repo": "wepy-com-progress-circle",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-simple-toast：基于wepy 的toast消息提示",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2021-01-29T09:19:55Z",
+                "owner": "jardenliu",
+                "repo": "wepy-simple-toast",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-com-selectab: 选择数量或者其他单选操作，可用于座位选择的组件",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2018-01-19T03:53:42Z",
+                "owner": "colmugx",
+                "repo": "wepy-com-selectab",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-flexbox-grid：Flexbox grid system for wepy/weapp/wechat",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2021-12-20T15:33:40Z",
+                "owner": "afeiship",
+                "repo": "react-inline-edit",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-components: wepy完成的基础组件",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-07-22T07:22:06Z",
+                "owner": "Wuuuu",
+                "repo": "wepy-components",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-sticker: wepy版小程序表情包组件",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-06-13T14:41:26Z",
+                "owner": "klouskingsley",
+                "repo": "wepy-sticker",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-com-toptip：a toptip component for 小程序~",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2017-06-13T06:20:21Z",
+                "owner": "ochukai",
+                "repo": "wepy-com-toptip",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-one-line-calendar：基于 wepy 的单行日历组件",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-12-31T06:20:13Z",
+                "owner": "VimMing",
+                "repo": "wepy-one-line-calendar",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-in-zanui: 一个基于zanui的wepy组件",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "CSS",
+                "last_commit": "2018-01-12T06:50:57Z",
+                "owner": "colla2me",
+                "repo": "wepy-in-zanui",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-datetime: 一个日期时间选择组件",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-12-01T03:20:54Z",
+                "owner": "threeq",
+                "repo": "wepy-datetime",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-com-pie：基于微信小程序canvas的饼图控件，适用于wepy框架",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-08-24T05:49:51Z",
+                "owner": "micro1226",
+                "repo": "wepy-com-pie",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-slide-card: 基于wepy的slide-card组件",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-03-12T03:12:07Z",
+                "owner": "SoloJiang",
+                "repo": "wepy-slide-card",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-com-paper-modal: 基于wepy的简洁帅气的modal组件",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-05-20T20:11:59Z",
+                "owner": "johncalvinroberts",
+                "repo": "wepy-com-paper-modal",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-com-paper-drawer: 基于wepy的简洁帅气drawer组件",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-05-20T20:35:15Z",
+                "owner": "johncalvinroberts",
+                "repo": "wepy-com-paper-drawer",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-listview: wepy版listview组件",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-04-02T01:53:43Z",
+                "owner": "qiangxinyu",
+                "repo": "wepy-listview",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-com-paper-flash: 基于wepy的简洁帅气flash组件",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-05-20T20:18:56Z",
+                "owner": "johncalvinroberts",
+                "repo": "wepy-com-paper-flash",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy2-com-toast：基于wepy2的Toast组件",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": null,
+                "last_commit": "2021-07-30T03:24:12Z",
+                "owner": "fudiwei",
+                "repo": "wepy2-com-toast",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy2-com-dialog：基于wepy2的Dialog组件",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": null,
+                "last_commit": "2021-07-30T03:21:26Z",
+                "owner": "fudiwei",
+                "repo": "wepy2-com-dialog",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy2-com-loading：基于wepy2的Loading组件",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": null,
+                "last_commit": "2021-07-30T03:22:31Z",
+                "owner": "fudiwei",
+                "repo": "wepy2-com-loading",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-com-antdM：wepy's component, ui design by antd-mobile",
+              "description": null,
+              "children": []
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-minui: 调用wepy封装方法，套用minui的UI组件",
+              "description": null,
+              "children": []
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-slide: 基于wepy框架的侧滑组件",
+              "description": null,
+              "children": []
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-scroll: 楼层跳跃, 滚动楼层. 滚动商品时触发分类切换, 商品分类联动",
+              "description": null,
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "功能类组件",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "wepyx: 基于 redux 的数据层管理框架",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2018-09-29T06:02:49Z",
+                "owner": "tolerance-go",
+                "repo": "weappx",
+                "stars": 143
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-login_relogin-component：微信小程序登录及重新二次登录组件wepy版",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2017-10-09T03:37:07Z",
+                "owner": "aben1188",
+                "repo": "wepy-login_relogin-component",
+                "stars": 70
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-plugin-img2base64：小程序图片转base64的WePy插件",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2018-09-27T08:16:13Z",
+                "owner": "xwxtwd",
+                "repo": "wepy-plugin-img2base64",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-upyun_upload-component：微信小程序又拍云上传组件wepy版",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-02-02T01:43:07Z",
+                "owner": "aben1188",
+                "repo": "wepy-upyun_upload-component",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "weapp-qrcode：在微信小程序中，快速生成二维码",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-01-04T12:20:43Z",
+                "owner": "yingye",
+                "repo": "weapp-qrcode",
+                "stars": 1718
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxWX: 用于微信小程序的RxJS，支持wepy",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2022-12-03T03:19:36Z",
+                "owner": "yalishizhude",
+                "repo": "RxWX",
+                "stars": 166
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-plugin-axios：在 wepy 中使用 axios",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2018-04-09T03:47:48Z",
+                "owner": "hjkcai",
+                "repo": "wepy-plugin-axios",
+                "stars": 105
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy_canvas_drawer: 微信小程序上canvas绘制图片助手，一个json就制作分享朋友圈图片",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2021-04-27T10:28:27Z",
+                "owner": "simmzl",
+                "repo": "wepy_canvas_drawer",
+                "stars": 77
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-corpper：基于wepy 的图片裁剪组件",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "CSS",
+                "last_commit": "2018-05-25T03:13:04Z",
+                "owner": "callmesoul",
+                "repo": "wepy-corpper",
+                "stars": 69
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wxParse: 对wxParse的简单封装，适用于wepy",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-08-30T10:54:31Z",
+                "owner": "Blubiubiu",
+                "repo": "wxParse",
+                "stars": 36
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-plugin-px2units：wepy框架px2units插件，将px转换为rpx",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2022-12-02T03:05:24Z",
+                "owner": "yingye",
+                "repo": "wepy-plugin-px2units",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "echarts-for-wechat-wepy：echarts微信小程序wepy版本封装",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-04-14T14:51:04Z",
+                "owner": "zlm919",
+                "repo": "echarts-for-wechat-wepy",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-plugin-iview: wepy更轻松地使用iview-weapp",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-09-01T15:59:00Z",
+                "owner": "jardenliu",
+                "repo": "wepy-plugin-iview",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-img-loader：微信小程序wepyjs第三方图片预加载组件",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2017-01-15T04:42:20Z",
+                "owner": "billyma128",
+                "repo": "wepy-img-loader",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-redux: wepy框架可以使用的redux链接库，兼容react-redux的写法",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2018-08-24T01:38:59Z",
+                "owner": "dpzxsm",
+                "repo": "wepy-redux",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-plugin-autoprefixer：wepy框架autoprefixer插件",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-03-27T10:57:38Z",
+                "owner": "li-xianfeng",
+                "repo": "wepy-plugin-autoprefixer",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-antv-f2：antv/f2微信小程序wepy版本封装",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2018-08-25T03:22:43Z",
+                "owner": "Onlylonger",
+                "repo": "wepy-antv-f2",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-redux: wepy版redux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2017-12-20T05:58:33Z",
+                "owner": "kwame998",
+                "repo": "wepy-redux",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-vue: 微信小程序路由",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2019-04-15T15:11:20Z",
+                "owner": "titrxw",
+                "repo": "wepy-vue",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-preload-image: 小程序图片加载组件",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2018-07-11T07:05:36Z",
+                "owner": "xd-tayde",
+                "repo": "wepy-preload-img",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-uploader：Uploader for wechat/weapp based on wepy",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2024-11-16T04:30:16Z",
+                "owner": "afeiship",
+                "repo": "react-calendar-graph",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-plugin-image: wepy插件根据图片大小是否转base64、上传七牛",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2019-06-17T15:44:48Z",
+                "owner": "huixisheng",
+                "repo": "wepy-plugin-image",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "generator-wepy-component：Yeoman generator for wepy component",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2022-01-04T07:48:04Z",
+                "owner": "afeiship",
+                "repo": "docker-sequenceserver",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redux-persist-weapp-storage：Redux-persist storage engine for weapp/wepy",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-03-12T01:54:39Z",
+                "owner": "cuijiemmx",
+                "repo": "redux-casa",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-plugin-requireall: wepy去中心化模块加载插件",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-02-10T14:12:56Z",
+                "owner": "rongyan6",
+                "repo": "wepy-plugin-requireall",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-plugin-preprocess: wepy框架下的 preprocess plugin配置",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2017-10-20T06:36:09Z",
+                "owner": "guday",
+                "repo": "wepy-plugin-preprocess",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-plugin-parsecss: wepy框架parsecss插件",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-11-07T10:35:02Z",
+                "owner": "EdwardZZZ",
+                "repo": "wepy-plugin-parsecss",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-plugin-rxjs: wepy项目使用rxjs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2019-09-10T02:50:46Z",
+                "owner": "AngusFu",
+                "repo": "wepy-plugin-rxjs",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "convert-wxapp：微信小程序，用户图片文字识别，基于Wepy开发",
+              "description": null,
+              "children": []
+            },
+            {
+              "node_type": "item",
+              "title": "wepy-plugin-hash-filename: wepy用哈希重命名文件",
+              "description": null,
+              "children": []
+            }
+          ]
+        }
+      ],
+      "title": "WePY开源组件"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "WeWeb：兼容微信小程序语法(包括wepy语法)的Web框架",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-05-04T20:31:37Z",
+            "owner": "wdfe",
+            "repo": "weweb",
+            "stars": 595
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wepy-utils: 小程序WePy工具集整合",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-05-08T11:25:33Z",
+            "owner": "MiGongOrg",
+            "repo": "wepy-utils",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wepy-template: 微信小程序模板框架wepy版，支持TypeScript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-07T09:17:19Z",
+            "owner": "MMF-FE",
+            "repo": "wepy-template",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wepy-plugin-px2units: wepy框架px2units插件",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-02T03:05:24Z",
+            "owner": "yingye",
+            "repo": "wepy-plugin-px2units",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TCB in WePY: 集成了云开发的 WePY 模板",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-02-02T14:57:49Z",
+            "owner": "CloudKits",
+            "repo": "wepy-tcb-demo",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wepy-plugin-autoprefixer：wepy框架autoprefixer插件",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-03-27T10:57:38Z",
+            "owner": "li-xianfeng",
+            "repo": "wepy-plugin-autoprefixer",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wxss2less：wxss文件批量重命名为less的小工具",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-12-13T02:32:39Z",
+            "owner": "stiekel",
+            "repo": "wxss2less",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wepy-compiler-styl: 微信小程序模板框架wepy版，更好的支持stylus的高级特性",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-07-11T05:45:36Z",
+            "owner": "fengxinming",
+            "repo": "wepy-plugins",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wepy-compiler-stylus: wepy框架stylus编译插件",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-07-11T05:45:36Z",
+            "owner": "fengxinming",
+            "repo": "wepy-plugins",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bee-cli：基于蘑菇街min-cli移植的一套wepy小程序组件化解决方案",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2018-10-25T06:27:34Z",
+            "owner": "history-frontEnd",
+            "repo": "bee-cli",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wepy-plugin-filemin: wepy 文件压缩插件",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-02-11T14:26:17Z",
+            "owner": "cuijiemmx",
+            "repo": "wepy-plugin-filemin",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wepy-plugin-mockdata: WePY MockServer模拟数据配置合并插件",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-02-10T14:15:28Z",
+            "owner": "rongyan6",
+            "repo": "wepy-plugin-mockdata",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-tools-for-wepy: 用gulp来解决一些wepy与小程序新特性间存在的问题",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-01-02T05:15:28Z",
+            "owner": "chen1zee",
+            "repo": "gulp-tools-for-wepy",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "generator-wepy-component: Yeoman generator for wepy component",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-01-04T07:48:04Z",
+            "owner": "afeiship",
+            "repo": "docker-sequenceserver",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "compile2ant: wepy2.0编译为支付宝小程序插件",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-03-29T08:38:32Z",
+            "owner": "SpringHgui",
+            "repo": "compile2ant",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wepy-snippets: 微信小程序WePy Sublime Snippets插件",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-05-28T03:13:15Z",
+            "owner": "MiGongOrg",
+            "repo": "wepy-snippets",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wepy-compiler-jade: 微信小程序模板框架wepy版，修复官方的wepy-compiler-pug的遗留BUG",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "wepy-compiler-view: 微信小程序模板框架wepy版，支持更多的模板解析",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "wepy-wafer-weui-weapp: 基于wepy+wafer2的小程序模板",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "WePY相关工具"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "yingye(20180518)：深入wepy源码：wepy运行原理分析",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-03-04T02:49:37Z",
+            "owner": "yingye",
+            "repo": "Blog",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yingye(20180511)：深入wepy源码：wpy文件编译过程",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-03-04T02:49:37Z",
+            "owner": "yingye",
+            "repo": "Blog",
+            "stars": 56
+          }
+        }
+      ],
+      "title": "WePY相关文章"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:06:31.242Z",
+    "original_repository": "aben1188/awesome-wepy",
+    "original_repository_sha": "4c4b0e5b4b47435c2b28041210cd98e597194b4f",
+    "enhanced_repository": "enhansome/enhansome-wepy",
+    "enhanced_repository_description": null,
+    "title": "Awesome wepy with stars"
+  }
+}
