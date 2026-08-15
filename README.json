@@ -103,7 +103,7 @@
             "last_commit": "2026-05-21T02:42:38Z",
             "owner": "yigger",
             "repo": "jiezhang",
-            "stars": 483
+            "stars": 484
           }
         },
         {
@@ -2081,7 +2081,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T14:04:35.467Z",
+    "last_updated": "2026-08-15T13:19:45.145Z",
     "original_repository": "aben1188/awesome-wepy",
     "original_repository_sha": "4c4b0e5b4b47435c2b28041210cd98e597194b4f",
     "enhanced_repository": "enhansome/enhansome-wepy",

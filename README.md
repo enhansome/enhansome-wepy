@@ -53,7 +53,7 @@
 * [we川大：使用wepy框架开发的校园综合类小程序](https://github.com/mohuishou/scuplus-wechat) ⚠️ Archived
 * [wepy-wechat-demo：基于wepy开发的仿微信聊天界面小程序](https://github.com/wepyjs/wepy-wechat-demo) ⭐ 535 | 🐛 19 | 🌐 JavaScript | 📅 2022-12-06
 * [weapp-poem: 诗词墨客](https://github.com/huangjianke/weapp-poem) ⭐ 505 | 🐛 8 | 🌐 JavaScript | 📅 2018-11-28
-* [jiezhang: 基于wepy开发的记账小程序](https://github.com/yigger/jiezhang) ⭐ 483 | 🐛 11 | 🌐 JavaScript | 📅 2026-05-21
+* [jiezhang: 基于wepy开发的记账小程序](https://github.com/yigger/jiezhang) ⭐ 484 | 🐛 11 | 🌐 JavaScript | 📅 2026-05-21
 * [sdb-mall: 直播小程序拼团商城](https://github.com/yjjdick/sdb-mall) ⭐ 430 | 🐛 0 | 🌐 Java | 📅 2025-11-18
 * [wepy-books：微信小程序wepy版图书管理系统](https://github.com/KingJeason/wepy-books) ⭐ 390 | 🐛 4 | 🌐 JavaScript | 📅 2018-05-06
 * [计生记mp-jishengji: 日常生活记录类的小程序](https://github.com/ximolang/mp-jishengji) ⭐ 350 | 🐛 3 | 🌐 JavaScript | 📅 2019-03-14
@@ -238,4 +238,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
