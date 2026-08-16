@@ -33,7 +33,7 @@
             "last_commit": "2019-01-03T07:35:26Z",
             "owner": "coolhwm",
             "repo": "leshare-shop-wepy",
-            "stars": 850
+            "stars": 849
           }
         },
         {
@@ -1455,7 +1455,7 @@
                 "last_commit": "2023-01-04T12:20:43Z",
                 "owner": "yingye",
                 "repo": "weapp-qrcode",
-                "stars": 1718
+                "stars": 1717
               }
             },
             {
@@ -2081,7 +2081,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T13:19:45.145Z",
+    "last_updated": "2026-08-16T13:20:55.338Z",
     "original_repository": "aben1188/awesome-wepy",
     "original_repository_sha": "4c4b0e5b4b47435c2b28041210cd98e597194b4f",
     "enhanced_repository": "enhansome/enhansome-wepy",
