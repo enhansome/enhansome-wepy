@@ -125,7 +125,7 @@
   * [wepy-com-icityer: 基于wepy框架的中国省市区选择组件](https://github.com/wahao/wepy-com-icityer) ⭐ 26 | 🐛 0 | 🌐 JavaScript | 📅 2018-04-04
   * [wepy-com-pwdfield：微信小程序明密文输入框组件，适用于支付密码/房间号/验证码输入](https://github.com/ColMugX/wepy-com-pwdfield) ⚠️ Archived
   * [wepy-notice-bar：一个可以滚动的通知栏](https://github.com/Liqiankun/wepy-notice-bar) ⭐ 14 | 🐛 0 | 🌐 JavaScript | 📅 2020-12-05
-  * [wepy-com-navbar: 基于wepy的NavBar组件](https://github.com/chenyangcun/wepy-com-navbar) ⭐ 13 | 🐛 1 | 🌐 JavaScript | 📅 2017-10-29
+  * [wepy-com-navbar: 基于wepy的NavBar组件](https://github.com/chenyangcun/wepy-com-navbar) ⭐ 13 | 🐛 2 | 🌐 JavaScript | 📅 2017-10-29
   * [wepy-match-input：微信小程序 wepyjs 第三方 动态匹配输入框插件](https://github.com/callmesoul/wepy-match-input) ⭐ 12 | 🐛 0 | 🌐 CSS | 📅 2018-05-25
   * [leshare-map-weapp：基于微信小程序的地图展现工具，使用wepy框架及weui样式开发](https://github.com/coolhwm/leshare-map-weapp) ⭐ 11 | 🐛 0 | 🌐 JavaScript | 📅 2017-09-24
   * [wepy-message：基于wepy 的类toast 消息提示](https://github.com/callmesoul/wepy-message) ⭐ 11 | 🐛 0 | 🌐 CSS | 📅 2018-03-22
@@ -238,4 +238,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
