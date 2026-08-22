@@ -52,7 +52,7 @@
 * [leshare-seller-wepy：基于小程序的电商卖家端，采用wepy框架开发](https://github.com/coolhwm/leshare-seller-wepy) ⭐ 702 | 🐛 12 | 🌐 JavaScript | 📅 2018-08-01
 * [we川大：使用wepy框架开发的校园综合类小程序](https://github.com/mohuishou/scuplus-wechat) ⚠️ Archived
 * [wepy-wechat-demo：基于wepy开发的仿微信聊天界面小程序](https://github.com/wepyjs/wepy-wechat-demo) ⭐ 535 | 🐛 19 | 🌐 JavaScript | 📅 2022-12-06
-* [weapp-poem: 诗词墨客](https://github.com/huangjianke/weapp-poem) ⭐ 505 | 🐛 8 | 🌐 JavaScript | 📅 2018-11-28
+* [weapp-poem: 诗词墨客](https://github.com/huangjianke/weapp-poem) ⭐ 506 | 🐛 8 | 🌐 JavaScript | 📅 2018-11-28
 * [jiezhang: 基于wepy开发的记账小程序](https://github.com/yigger/jiezhang) ⭐ 483 | 🐛 11 | 🌐 JavaScript | 📅 2026-05-21
 * [sdb-mall: 直播小程序拼团商城](https://github.com/yjjdick/sdb-mall) ⭐ 430 | 🐛 0 | 🌐 Java | 📅 2025-11-18
 * [wepy-books：微信小程序wepy版图书管理系统](https://github.com/KingJeason/wepy-books) ⭐ 390 | 🐛 4 | 🌐 JavaScript | 📅 2018-05-06
@@ -62,7 +62,7 @@
 * [weapp-hiapp：使用wepy+zanui+redux开发的社区类小程序开源版](https://github.com/BelinChung/weapp-hiapp) ⭐ 236 | 🐛 2 | 🌐 Vue | 📅 2019-10-15
 * [wepy\_ios\_top: 一款可以切换国家查看不同国家iOS应用排行榜的小程序](https://github.com/szpnygo/wepy_ios_top) ⭐ 193 | 🐛 2 | 🌐 CSS | 📅 2020-06-23
 * [shanbay-mina: 基于wepy框架的“扇贝阅读”微信小程序](https://github.com/yshkk/shanbay-mina) ⭐ 177 | 🐛 3 | 🌐 JavaScript | 📅 2017-12-24
-* [wepy-ufutx-library：友福图书馆(基于Thunf's bookmall, 持续开发共享)](https://github.com/glore/library) ⭐ 163 | 🐛 9 | 🌐 JavaScript | 📅 2023-07-20
+* [wepy-ufutx-library：友福图书馆(基于Thunf's bookmall, 持续开发共享)](https://github.com/glore/library) ⭐ 164 | 🐛 9 | 🌐 JavaScript | 📅 2023-07-20
 * [steedos: 华炎微站、微商城，含SAAS服务端](https://github.com/steedos/mini-vip) ⭐ 88 | 🐛 22 | 🌐 CSS | 📅 2019-08-27
 * [fashion-mall：服装购物商城，基于 wepy，有本地服务器可测试学习](https://github.com/weimingwill/fashion-mall) ⭐ 76 | 🐛 17 | 🌐 JavaScript | 📅 2023-07-18
 * [larabbs-weapp：使用 wepy 开发的论坛类小程序，对接 Laravel 开发的 REST 风格接口](https://github.com/summerblue/larabbs-weapp) ⭐ 65 | 🐛 1 | 🌐 CSS | 📅 2022-06-26
@@ -238,4 +238,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
