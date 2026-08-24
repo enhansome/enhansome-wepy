@@ -7,6 +7,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "WePY官方仓库",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 73681508,
+                "language": "JavaScript",
+                "last_commit": "2026-03-18T07:48:11Z",
+                "owner": "Tencent",
+                "repo": "wepy",
+                "stars": 22550
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "awesome-wepy，awesome for WePY！"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "wxYuHanStore：基于wepy开发的商城(微店)微信小程序",
               "description": null,
               "children": [],
@@ -2129,13 +2151,35 @@
           "description": null,
           "node_type": "group",
           "title": "WePY相关文章"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": ":100: 跨平台多端应用前端框架uni-app一站式开发资源汇总",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 182019376,
+                "language": null,
+                "last_commit": "2020-11-08T12:26:31Z",
+                "owner": "aben1188",
+                "repo": "awesome-uni-app",
+                "stars": 994
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "特别推荐"
         }
       ],
       "title": "微信小程序WePY框架开发资源汇总"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:39:09.449Z",
+    "last_updated": "2026-08-24T13:58:22.250Z",
     "original_repository": "aben1188/awesome-wepy",
     "original_repository_id": 103807732,
     "original_repository_sha": "4c4b0e5b4b47435c2b28041210cd98e597194b4f",
