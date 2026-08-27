@@ -17,7 +17,7 @@
                 "last_commit": "2026-03-18T07:48:11Z",
                 "owner": "Tencent",
                 "repo": "wepy",
-                "stars": 22550
+                "stars": 22549
               }
             }
           ],
@@ -1513,7 +1513,7 @@
                     "last_commit": "2023-01-04T12:20:43Z",
                     "owner": "yingye",
                     "repo": "weapp-qrcode",
-                    "stars": 1717
+                    "stars": 1718
                   }
                 },
                 {
@@ -2179,9 +2179,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T13:41:59.001Z",
-    "original_repository": "aben1188/awesome-wepy",
-    "original_repository_id": 103807732,
+    "last_updated": "2026-08-27T12:11:02.602Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 103807732,
+      "language": null,
+      "last_commit": "2021-05-06T08:02:16Z",
+      "owner": "aben1188",
+      "repo": "awesome-wepy",
+      "stars": 4370
+    },
     "original_repository_sha": "4c4b0e5b4b47435c2b28041210cd98e597194b4f",
     "enhanced_repository": "enhansome/enhansome-wepy",
     "enhanced_repository_description": null,
