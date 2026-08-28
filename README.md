@@ -48,7 +48,7 @@
 ### WePY开源项目
 
 * [wxYuHanStore：基于wepy开发的商城(微店)微信小程序](https://github.com/dyq086/wxYuHanStore) ⭐ 3,385 | 🐛 15 | 🌐 JavaScript | 📅 2021-05-18
-* [leshare-food-wepy：基于微信小程序的外卖店铺，采用wepy框架开发](https://github.com/coolhwm/leshare-food-wepy) ⭐ 849 | 🐛 26 | 🌐 JavaScript | 📅 2019-01-03
+* [leshare-food-wepy：基于微信小程序的外卖店铺，采用wepy框架开发](https://github.com/coolhwm/leshare-food-wepy) ⭐ 848 | 🐛 26 | 🌐 JavaScript | 📅 2019-01-03
 * [leshare-seller-wepy：基于小程序的电商卖家端，采用wepy框架开发](https://github.com/coolhwm/leshare-seller-wepy) ⭐ 702 | 🐛 12 | 🌐 JavaScript | 📅 2018-08-01
 * [we川大：使用wepy框架开发的校园综合类小程序](https://github.com/mohuishou/scuplus-wechat) ⚠️ Archived
 * [wepy-wechat-demo：基于wepy开发的仿微信聊天界面小程序](https://github.com/wepyjs/wepy-wechat-demo) ⭐ 535 | 🐛 19 | 🌐 JavaScript | 📅 2022-12-06
@@ -234,8 +234,8 @@
 
 ### 特别推荐
 
-* :100: [跨平台多端应用前端框架uni-app一站式开发资源汇总](https://github.com/aben1188/awesome-uni-app) ⭐ 994 | 🐛 1 | 📅 2020-11-08
+* :100: [跨平台多端应用前端框架uni-app一站式开发资源汇总](https://github.com/aben1188/awesome-uni-app) ⭐ 993 | 🐛 1 | 📅 2020-11-08
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._

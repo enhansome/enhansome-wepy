@@ -17,8 +17,9 @@
                 "last_commit": "2026-03-18T07:48:11Z",
                 "owner": "Tencent",
                 "repo": "wepy",
-                "stars": 22549
-              }
+                "stars": 22547
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             }
           ],
           "description": null,
@@ -40,7 +41,8 @@
                 "owner": "dyq086",
                 "repo": "wepy-mall",
                 "stars": 3385
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -54,8 +56,9 @@
                 "last_commit": "2019-01-03T07:35:26Z",
                 "owner": "coolhwm",
                 "repo": "leshare-shop-wepy",
-                "stars": 849
-              }
+                "stars": 848
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -70,7 +73,8 @@
                 "owner": "coolhwm",
                 "repo": "leshare-seller-wepy",
                 "stars": 702
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "mohuishou",
                 "repo": "scuplus-wechat",
                 "stars": 691
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "wepyjs",
                 "repo": "wepy-wechat-demo",
                 "stars": 535
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "nslogx",
                 "repo": "weapp-poem",
                 "stars": 506
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "yigger",
                 "repo": "jiezhang",
                 "stars": 483
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "yjjdick",
                 "repo": "sdb-mall",
                 "stars": 430
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "KingJeason",
                 "repo": "wepy-books",
                 "stars": 390
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "seymoe",
                 "repo": "mp-jishengji",
                 "stars": 350
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -190,7 +201,8 @@
                 "owner": "jas0ncn",
                 "repo": "szushudong",
                 "stars": 305
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -205,7 +217,8 @@
                 "owner": "Thunf",
                 "repo": "wepy-demo-bookmall",
                 "stars": 282
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -220,7 +233,8 @@
                 "owner": "BelinChung",
                 "repo": "weapp-hiapp",
                 "stars": 236
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -235,7 +249,8 @@
                 "owner": "szpnygo",
                 "repo": "wepy_ios_top",
                 "stars": 193
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -250,7 +265,8 @@
                 "owner": "yshkk",
                 "repo": "shanbay-mina",
                 "stars": 177
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -265,7 +281,8 @@
                 "owner": "glore",
                 "repo": "library",
                 "stars": 164
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -280,7 +297,8 @@
                 "owner": "steedos",
                 "repo": "mini-vip",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -295,7 +313,8 @@
                 "owner": "weimingwill",
                 "repo": "fashion-mall",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -310,7 +329,8 @@
                 "owner": "summerblue",
                 "repo": "larabbs-weapp",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -325,7 +345,8 @@
                 "owner": "jasscia",
                 "repo": "newBadminton",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -340,7 +361,8 @@
                 "owner": "lxljl",
                 "repo": "sea-ai",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -355,7 +377,8 @@
                 "owner": "hjkcai",
                 "repo": "cardiovascular-tracker",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -370,7 +393,8 @@
                 "owner": "huangang",
                 "repo": "wepy-one",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -385,7 +409,8 @@
                 "owner": "jackdizhu",
                 "repo": "WePY_app",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -400,7 +425,8 @@
                 "owner": "huangxifuhxf",
                 "repo": "wepyshop",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -415,7 +441,8 @@
                 "owner": "terryso",
                 "repo": "youqu",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -430,7 +457,8 @@
                 "owner": "zh8637688",
                 "repo": "WordGame-wepy",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -445,7 +473,8 @@
                 "owner": "yociduo",
                 "repo": "scrum-planning-poker",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -460,7 +489,8 @@
                 "owner": "Anonlyy",
                 "repo": "wx_iciba",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -475,7 +505,8 @@
                 "owner": "g1mi",
                 "repo": "JMGS",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -490,7 +521,8 @@
                 "owner": "huangang",
                 "repo": "wepy-nideshop",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -505,7 +537,8 @@
                 "owner": "chenwenjin888",
                 "repo": "wepy-douban",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -520,7 +553,8 @@
                 "owner": "Kyncc",
                 "repo": "WEAPP_GNB_PRIMARY",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -535,7 +569,8 @@
                 "owner": "royalrick",
                 "repo": "emotion-weapp",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -550,7 +585,8 @@
                 "owner": "huxinmin",
                 "repo": "wxMusic",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -565,7 +601,8 @@
                 "owner": "niuhuahua",
                 "repo": "kedouWechat",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -580,7 +617,8 @@
                 "owner": "oOBobbyOo",
                 "repo": "wepy-nba",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -595,7 +633,8 @@
                 "owner": "Kyncc",
                 "repo": "WEAPP_GNB_MIDDLE",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -610,7 +649,8 @@
                 "owner": "johncalvinroberts",
                 "repo": "bork-mini-program",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -625,7 +665,8 @@
                 "owner": "Hansenleee",
                 "repo": "2048wepy",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -640,7 +681,8 @@
                 "owner": "GitHubAFeng",
                 "repo": "AsBiLi",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -655,7 +697,8 @@
                 "owner": "MiGongOrg",
                 "repo": "ChatWall-WePy",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -670,7 +713,8 @@
                 "owner": "yimogit",
                 "repo": "TuCaoQiang",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -685,7 +729,8 @@
                 "owner": "cycjimmy",
                 "repo": "weapp-color-weather",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -700,7 +745,8 @@
                 "owner": "Liqiankun",
                 "repo": "DLWepyRedux",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -715,7 +761,8 @@
                 "owner": "abc02",
                 "repo": "aboo-wx-applet",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -730,7 +777,8 @@
                 "owner": "AJLoveChina",
                 "repo": "wechat-qipaceyan",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -745,7 +793,8 @@
                 "owner": "233point",
                 "repo": "applet",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -760,7 +809,8 @@
                 "owner": "PUNOLEE",
                 "repo": "Salo-wechat-mini",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -775,7 +825,8 @@
                 "owner": "AWeiJie",
                 "repo": "project_wepy_k",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             }
           ],
           "description": null,
@@ -802,7 +853,8 @@
                     "owner": "wepyjs",
                     "repo": "wepy-weui-demo",
                     "stars": 379
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -817,7 +869,8 @@
                     "owner": "brucx",
                     "repo": "wepy-zanui-demo",
                     "stars": 236
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -832,7 +885,8 @@
                     "owner": "Chaunjie",
                     "repo": "kai-ui",
                     "stars": 212
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -847,7 +901,8 @@
                     "owner": "wepyjs",
                     "repo": "wepy-com-toast",
                     "stars": 105
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -862,7 +917,8 @@
                     "owner": "jimmyrogue",
                     "repo": "wepy-X-minui",
                     "stars": 102
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -877,7 +933,8 @@
                     "owner": "we-plugin",
                     "repo": "wepy-com-swiper",
                     "stars": 76
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -892,7 +949,8 @@
                     "owner": "Licoy",
                     "repo": "wepy-com-loadings",
                     "stars": 69
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -907,7 +965,8 @@
                     "owner": "CalvinHong",
                     "repo": "wepy-com-charts",
                     "stars": 66
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -922,7 +981,8 @@
                     "owner": "HellyW",
                     "repo": "wepy-com-inaver",
                     "stars": 43
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -937,7 +997,8 @@
                     "owner": "callmesoul",
                     "repo": "wepy-nices",
                     "stars": 38
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -952,7 +1013,8 @@
                     "owner": "callmesoul",
                     "repo": "wepy-calendar",
                     "stars": 36
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -967,7 +1029,8 @@
                     "owner": "shmy",
                     "repo": "we-city-select",
                     "stars": 34
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -982,7 +1045,8 @@
                     "owner": "ronffy",
                     "repo": "wepy-com-calendar",
                     "stars": 32
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -997,7 +1061,8 @@
                     "owner": "GeoffZhu",
                     "repo": "wepy-swipe-delete",
                     "stars": 29
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1012,7 +1077,8 @@
                     "owner": "HellyW",
                     "repo": "wepy-com-icityer",
                     "stars": 26
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1027,7 +1093,8 @@
                     "owner": "colmugx",
                     "repo": "wepy-com-pwdfield",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1042,7 +1109,8 @@
                     "owner": "Liqiankun",
                     "repo": "wepy-notice-bar",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1057,7 +1125,8 @@
                     "owner": "chenyangcun",
                     "repo": "wepy-com-navbar",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1072,7 +1141,8 @@
                     "owner": "callmesoul",
                     "repo": "wepy-match-input",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1087,7 +1157,8 @@
                     "owner": "coolhwm",
                     "repo": "leshare-map-weapp",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1102,7 +1173,8 @@
                     "owner": "callmesoul",
                     "repo": "wepy-message",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1117,7 +1189,8 @@
                     "owner": "HellyW",
                     "repo": "wepy-com-iviewer",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1132,7 +1205,8 @@
                     "owner": "colmugx",
                     "repo": "wepy-com-selectab",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1147,7 +1221,8 @@
                     "owner": "SporeUI",
                     "repo": "spore-wepy-tipbox",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1162,7 +1237,8 @@
                     "owner": "ronffy",
                     "repo": "wepy-com-progress-circle",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1177,7 +1253,8 @@
                     "owner": "jardenliu",
                     "repo": "wepy-simple-toast",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1192,7 +1269,8 @@
                     "owner": "colmugx",
                     "repo": "wepy-com-selectab",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1207,7 +1285,8 @@
                     "owner": "afeiship",
                     "repo": "react-inline-edit",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1222,7 +1301,8 @@
                     "owner": "Wuuuu",
                     "repo": "wepy-components",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1237,7 +1317,8 @@
                     "owner": "klouskingsley",
                     "repo": "wepy-sticker",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1252,7 +1333,8 @@
                     "owner": "ochukai",
                     "repo": "wepy-com-toptip",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1267,7 +1349,8 @@
                     "owner": "VimMing",
                     "repo": "wepy-one-line-calendar",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1282,7 +1365,8 @@
                     "owner": "colla2me",
                     "repo": "wepy-in-zanui",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1297,7 +1381,8 @@
                     "owner": "threeq",
                     "repo": "wepy-datetime",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1312,7 +1397,8 @@
                     "owner": "micro1226",
                     "repo": "wepy-com-pie",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1327,7 +1413,8 @@
                     "owner": "SoloJiang",
                     "repo": "wepy-slide-card",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1342,7 +1429,8 @@
                     "owner": "johncalvinroberts",
                     "repo": "wepy-com-paper-modal",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1357,7 +1445,8 @@
                     "owner": "johncalvinroberts",
                     "repo": "wepy-com-paper-drawer",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1372,7 +1461,8 @@
                     "owner": "qiangxinyu",
                     "repo": "wepy-listview",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1387,7 +1477,8 @@
                     "owner": "johncalvinroberts",
                     "repo": "wepy-com-paper-flash",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1402,7 +1493,8 @@
                     "owner": "fudiwei",
                     "repo": "wepy2-com-toast",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1417,7 +1509,8 @@
                     "owner": "fudiwei",
                     "repo": "wepy2-com-dialog",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1432,7 +1525,8 @@
                     "owner": "fudiwei",
                     "repo": "wepy2-com-loading",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 }
               ]
             },
@@ -1454,7 +1548,8 @@
                     "owner": "tolerance-go",
                     "repo": "weappx",
                     "stars": 143
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1469,7 +1564,8 @@
                     "owner": "aben1188",
                     "repo": "wepy-login_relogin-component",
                     "stars": 70
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1484,7 +1580,8 @@
                     "owner": "xwxtwd",
                     "repo": "wepy-plugin-img2base64",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1499,7 +1596,8 @@
                     "owner": "aben1188",
                     "repo": "wepy-upyun_upload-component",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1514,7 +1612,8 @@
                     "owner": "yingye",
                     "repo": "weapp-qrcode",
                     "stars": 1718
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1529,7 +1628,8 @@
                     "owner": "yalishizhude",
                     "repo": "RxWX",
                     "stars": 166
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1544,7 +1644,8 @@
                     "owner": "hjkcai",
                     "repo": "wepy-plugin-axios",
                     "stars": 105
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1559,7 +1660,8 @@
                     "owner": "simmzl",
                     "repo": "wepy_canvas_drawer",
                     "stars": 77
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1574,7 +1676,8 @@
                     "owner": "callmesoul",
                     "repo": "wepy-corpper",
                     "stars": 69
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1589,7 +1692,8 @@
                     "owner": "Blubiubiu",
                     "repo": "wxParse",
                     "stars": 36
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1604,7 +1708,8 @@
                     "owner": "yingye",
                     "repo": "wepy-plugin-px2units",
                     "stars": 30
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1619,7 +1724,8 @@
                     "owner": "zlm919",
                     "repo": "echarts-for-wechat-wepy",
                     "stars": 29
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1634,7 +1740,8 @@
                     "owner": "jardenliu",
                     "repo": "wepy-plugin-iview",
                     "stars": 29
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1649,7 +1756,8 @@
                     "owner": "billyma128",
                     "repo": "wepy-img-loader",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1664,7 +1772,8 @@
                     "owner": "dpzxsm",
                     "repo": "wepy-redux",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1679,7 +1788,8 @@
                     "owner": "li-xianfeng",
                     "repo": "wepy-plugin-autoprefixer",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1694,7 +1804,8 @@
                     "owner": "Onlylonger",
                     "repo": "wepy-antv-f2",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1709,7 +1820,8 @@
                     "owner": "kwame998",
                     "repo": "wepy-redux",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1724,7 +1836,8 @@
                     "owner": "titrxw",
                     "repo": "wepy-vue",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1739,7 +1852,8 @@
                     "owner": "xd-tayde",
                     "repo": "wepy-preload-img",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1754,7 +1868,8 @@
                     "owner": "afeiship",
                     "repo": "react-calendar-graph",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1769,7 +1884,8 @@
                     "owner": "huixisheng",
                     "repo": "wepy-plugin-image",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1784,7 +1900,8 @@
                     "owner": "afeiship",
                     "repo": "docker-sequenceserver",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1799,7 +1916,8 @@
                     "owner": "cuijiemmx",
                     "repo": "redux-casa",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1814,7 +1932,8 @@
                     "owner": "rongyan6",
                     "repo": "wepy-plugin-requireall",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1829,7 +1948,8 @@
                     "owner": "guday",
                     "repo": "wepy-plugin-preprocess",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1844,7 +1964,8 @@
                     "owner": "EdwardZZZ",
                     "repo": "wepy-plugin-parsecss",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 },
                 {
                   "node_type": "item",
@@ -1859,7 +1980,8 @@
                     "owner": "AngusFu",
                     "repo": "wepy-plugin-rxjs",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
                 }
               ]
             }
@@ -1883,7 +2005,8 @@
                 "owner": "wdfe",
                 "repo": "weweb",
                 "stars": 595
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -1898,7 +2021,8 @@
                 "owner": "MiGongOrg",
                 "repo": "wepy-utils",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -1913,7 +2037,8 @@
                 "owner": "MMF-FE",
                 "repo": "wepy-template",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -1928,7 +2053,8 @@
                 "owner": "yingye",
                 "repo": "wepy-plugin-px2units",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -1943,7 +2069,8 @@
                 "owner": "CloudKits",
                 "repo": "wepy-tcb-demo",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -1958,7 +2085,8 @@
                 "owner": "li-xianfeng",
                 "repo": "wepy-plugin-autoprefixer",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -1973,7 +2101,8 @@
                 "owner": "stiekel",
                 "repo": "wxss2less",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -1988,7 +2117,8 @@
                 "owner": "fengxinming",
                 "repo": "wepy-plugins",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -2003,7 +2133,8 @@
                 "owner": "fengxinming",
                 "repo": "wepy-plugins",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -2018,7 +2149,8 @@
                 "owner": "history-frontEnd",
                 "repo": "bee-cli",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -2033,7 +2165,8 @@
                 "owner": "cuijiemmx",
                 "repo": "wepy-plugin-filemin",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -2048,7 +2181,8 @@
                 "owner": "rongyan6",
                 "repo": "wepy-plugin-mockdata",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -2063,7 +2197,8 @@
                 "owner": "chen1zee",
                 "repo": "gulp-tools-for-wepy",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -2078,7 +2213,8 @@
                 "owner": "afeiship",
                 "repo": "docker-sequenceserver",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -2093,7 +2229,8 @@
                 "owner": "SpringHgui",
                 "repo": "compile2ant",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -2108,7 +2245,8 @@
                 "owner": "MiGongOrg",
                 "repo": "wepy-snippets",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             }
           ],
           "description": null,
@@ -2130,7 +2268,8 @@
                 "owner": "yingye",
                 "repo": "Blog",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             },
             {
               "node_type": "item",
@@ -2145,7 +2284,8 @@
                 "owner": "yingye",
                 "repo": "Blog",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             }
           ],
           "description": null,
@@ -2166,8 +2306,9 @@
                 "last_commit": "2020-11-08T12:26:31Z",
                 "owner": "aben1188",
                 "repo": "awesome-uni-app",
-                "stars": 994
-              }
+                "stars": 993
+              },
+              "first_seen": "2026-08-28T22:44:03.787Z"
             }
           ],
           "description": null,
@@ -2179,7 +2320,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:38:38.131Z",
+    "last_updated": "2026-08-28T22:44:03.787Z",
     "original_repository_info": {
       "archived": false,
       "id": 103807732,
