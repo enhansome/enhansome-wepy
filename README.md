@@ -47,7 +47,7 @@
 
 ### WePY开源项目
 
-* [wxYuHanStore：基于wepy开发的商城(微店)微信小程序](https://github.com/dyq086/wxYuHanStore) ⭐ 3,385 | 🐛 15 | 🌐 JavaScript | 📅 2021-05-18
+* [wxYuHanStore：基于wepy开发的商城(微店)微信小程序](https://github.com/dyq086/wxYuHanStore) ⭐ 3,384 | 🐛 15 | 🌐 JavaScript | 📅 2021-05-18
 * [leshare-food-wepy：基于微信小程序的外卖店铺，采用wepy框架开发](https://github.com/coolhwm/leshare-food-wepy) ⭐ 848 | 🐛 26 | 🌐 JavaScript | 📅 2019-01-03
 * [leshare-seller-wepy：基于小程序的电商卖家端，采用wepy框架开发](https://github.com/coolhwm/leshare-seller-wepy) ⭐ 702 | 🐛 12 | 🌐 JavaScript | 📅 2018-08-01
 * [we川大：使用wepy框架开发的校园综合类小程序](https://github.com/mohuishou/scuplus-wechat) ⚠️ Archived
@@ -238,4 +238,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
