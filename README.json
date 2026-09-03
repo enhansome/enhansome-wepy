@@ -309,7 +309,7 @@
                 "open_issues": 1,
                 "owner": "jas0ncn",
                 "repo": "szushudong",
-                "stars": 305,
+                "stars": 306,
                 "topics": [
                   "szu",
                   "weixin",
@@ -1655,7 +1655,7 @@
                     "language": "JavaScript",
                     "license": null,
                     "last_commit": "2017-10-29T03:01:26Z",
-                    "open_issues": 1,
+                    "open_issues": 2,
                     "owner": "chenyangcun",
                     "repo": "wepy-com-navbar",
                     "stars": 13,
@@ -3348,7 +3348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T16:53:07.226Z",
+    "last_updated": "2026-09-03T16:42:24.960Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome for wepy ! 微信小程序组件化开发框架wepy开发资源汇总",

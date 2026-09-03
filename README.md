@@ -57,7 +57,7 @@
 * [sdb-mall: 直播小程序拼团商城](https://github.com/yjjdick/sdb-mall) ⭐ 430 | 🐛 0 | 🌐 Java | 📅 2025-11-18
 * [wepy-books：微信小程序wepy版图书管理系统](https://github.com/KingJeason/wepy-books) ⭐ 390 | 🐛 4 | 🌐 JavaScript | 📅 2018-05-06
 * [计生记mp-jishengji: 日常生活记录类的小程序](https://github.com/ximolang/mp-jishengji) ⭐ 350 | 🐛 3 | 🌐 JavaScript | 📅 2019-03-14
-* [深大的树洞：基于wepy开发的树洞类微信小程序](https://github.com/jas0ncn/szushudong) ⭐ 305 | 🐛 1 | 🌐 JavaScript | 📅 2017-07-30
+* [深大的树洞：基于wepy开发的树洞类微信小程序](https://github.com/jas0ncn/szushudong) ⭐ 306 | 🐛 1 | 🌐 JavaScript | 📅 2017-07-30
 * [wepy-demo-bookmall：微信小程序🐼📖代码示例，使用wepy框架及weui样式开发](https://github.com/Thunf/wepy-demo-bookmall) ⭐ 282 | 🐛 2 | 🌐 JavaScript | 📅 2018-03-12
 * [weapp-hiapp：使用wepy+zanui+redux开发的社区类小程序开源版](https://github.com/BelinChung/weapp-hiapp) ⭐ 236 | 🐛 2 | 🌐 Vue | 📅 2019-10-15
 * [wepy\_ios\_top: 一款可以切换国家查看不同国家iOS应用排行榜的小程序](https://github.com/szpnygo/wepy_ios_top) ⭐ 193 | 🐛 2 | 🌐 CSS | 📅 2020-06-23
@@ -125,7 +125,7 @@
   * [wepy-com-icityer: 基于wepy框架的中国省市区选择组件](https://github.com/wahao/wepy-com-icityer) ⭐ 26 | 🐛 0 | 🌐 JavaScript | 📅 2018-04-04
   * [wepy-com-pwdfield：微信小程序明密文输入框组件，适用于支付密码/房间号/验证码输入](https://github.com/ColMugX/wepy-com-pwdfield) ⚠️ Archived
   * [wepy-notice-bar：一个可以滚动的通知栏](https://github.com/Liqiankun/wepy-notice-bar) ⭐ 14 | 🐛 0 | 🌐 JavaScript | 📅 2020-12-05
-  * [wepy-com-navbar: 基于wepy的NavBar组件](https://github.com/chenyangcun/wepy-com-navbar) ⭐ 13 | 🐛 1 | 🌐 JavaScript | 📅 2017-10-29
+  * [wepy-com-navbar: 基于wepy的NavBar组件](https://github.com/chenyangcun/wepy-com-navbar) ⭐ 13 | 🐛 2 | 🌐 JavaScript | 📅 2017-10-29
   * [wepy-match-input：微信小程序 wepyjs 第三方 动态匹配输入框插件](https://github.com/callmesoul/wepy-match-input) ⭐ 12 | 🐛 0 | 🌐 CSS | 📅 2018-05-25
   * [leshare-map-weapp：基于微信小程序的地图展现工具，使用wepy框架及weui样式开发](https://github.com/coolhwm/leshare-map-weapp) ⭐ 11 | 🐛 0 | 🌐 JavaScript | 📅 2017-09-24
   * [wepy-message：基于wepy 的类toast 消息提示](https://github.com/callmesoul/wepy-message) ⭐ 11 | 🐛 0 | 🌐 CSS | 📅 2018-03-22
@@ -238,4 +238,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
