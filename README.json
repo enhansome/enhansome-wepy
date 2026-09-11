@@ -21,7 +21,7 @@
                 "open_issues": 381,
                 "owner": "Tencent",
                 "repo": "wepy",
-                "stars": 22540,
+                "stars": 22539,
                 "topics": [
                   "weapp",
                   "wepy"
@@ -52,7 +52,7 @@
                 "open_issues": 15,
                 "owner": "dyq086",
                 "repo": "wepy-mall",
-                "stars": 3385,
+                "stars": 3386,
                 "topics": [
                   "app",
                   "college",
@@ -164,7 +164,7 @@
                 "open_issues": 19,
                 "owner": "wepyjs",
                 "repo": "wepy-wechat-demo",
-                "stars": 535,
+                "stars": 536,
                 "topics": [
                   "demo",
                   "wechat",
@@ -3348,7 +3348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T16:42:41.747Z",
+    "last_updated": "2026-09-11T16:47:01.804Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome for wepy ! 微信小程序组件化开发框架wepy开发资源汇总",
