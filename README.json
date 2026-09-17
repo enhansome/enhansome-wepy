@@ -21,7 +21,7 @@
                 "open_issues": 381,
                 "owner": "Tencent",
                 "repo": "wepy",
-                "stars": 22538,
+                "stars": 22537,
                 "topics": [
                   "weapp",
                   "wepy"
@@ -84,7 +84,7 @@
                 "open_issues": 26,
                 "owner": "coolhwm",
                 "repo": "leshare-shop-wepy",
-                "stars": 849,
+                "stars": 848,
                 "topics": [
                   "food",
                   "takeaway",
@@ -111,7 +111,7 @@
                 "open_issues": 12,
                 "owner": "coolhwm",
                 "repo": "leshare-seller-wepy",
-                "stars": 702,
+                "stars": 703,
                 "topics": [
                   "shop",
                   "weapp",
@@ -164,7 +164,7 @@
                 "open_issues": 19,
                 "owner": "wepyjs",
                 "repo": "wepy-wechat-demo",
-                "stars": 536,
+                "stars": 537,
                 "topics": [
                   "demo",
                   "wechat",
@@ -218,7 +218,7 @@
                 "open_issues": 11,
                 "owner": "yigger",
                 "repo": "jiezhang",
-                "stars": 484,
+                "stars": 483,
                 "topics": [
                   "jiezhang",
                   "taro",
@@ -542,7 +542,7 @@
                 "open_issues": 0,
                 "owner": "lxljl",
                 "repo": "sea-ai",
-                "stars": 54,
+                "stars": 55,
                 "topics": [
                   "ai",
                   "baidu-ai",
@@ -661,7 +661,7 @@
                 "open_issues": 0,
                 "owner": "terryso",
                 "repo": "youqu",
-                "stars": 39,
+                "stars": 40,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:44:03.787Z"
@@ -737,7 +737,7 @@
                 "open_issues": 2,
                 "owner": "Anonlyy",
                 "repo": "wx_iciba",
-                "stars": 30,
+                "stars": 31,
                 "topics": [
                   "iciba",
                   "weixin",
@@ -1314,7 +1314,7 @@
                     "open_issues": 4,
                     "owner": "Chaunjie",
                     "repo": "kai-ui",
-                    "stars": 212,
+                    "stars": 211,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:44:03.787Z"
@@ -2503,30 +2503,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "echarts-for-wechat-wepy：echarts微信小程序wepy版本封装",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "echarts微信小程序wepy版本封装",
-                    "homepage": null,
-                    "id": 127021651,
-                    "language": "JavaScript",
-                    "license": "MIT",
-                    "last_commit": "2018-04-14T14:51:04Z",
-                    "open_issues": 7,
-                    "owner": "zlm919",
-                    "repo": "echarts-for-wechat-wepy",
-                    "stars": 29,
-                    "topics": [
-                      "echarts",
-                      "wepy"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T22:44:03.787Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "wepy-plugin-iview: wepy更轻松地使用iview-weapp",
                   "description": null,
                   "children": [],
@@ -2552,6 +2528,30 @@
                       "weapp-iview",
                       "wechat",
                       "wechat-app",
+                      "wepy"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T22:44:03.787Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "echarts-for-wechat-wepy：echarts微信小程序wepy版本封装",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "echarts微信小程序wepy版本封装",
+                    "homepage": null,
+                    "id": 127021651,
+                    "language": "JavaScript",
+                    "license": "MIT",
+                    "last_commit": "2018-04-14T14:51:04Z",
+                    "open_issues": 7,
+                    "owner": "zlm919",
+                    "repo": "echarts-for-wechat-wepy",
+                    "stars": 28,
+                    "topics": [
+                      "echarts",
                       "wepy"
                     ]
                   },
@@ -3348,7 +3348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T17:18:34.912Z",
+    "last_updated": "2026-09-17T17:17:41.680Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome for wepy ! 微信小程序组件化开发框架wepy开发资源汇总",
@@ -3360,7 +3360,7 @@
       "open_issues": 1,
       "owner": "aben1188",
       "repo": "awesome-wepy",
-      "stars": 4371,
+      "stars": 4369,
       "topics": []
     },
     "original_repository_sha": "4c4b0e5b4b47435c2b28041210cd98e597194b4f",
