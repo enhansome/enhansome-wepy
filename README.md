@@ -51,7 +51,7 @@
 * [leshare-food-wepy：基于微信小程序的外卖店铺，采用wepy框架开发](https://github.com/coolhwm/leshare-food-wepy) ⭐ 848 | 🐛 26 | 🌐 JavaScript | 📅 2019-01-03
 * [leshare-seller-wepy：基于小程序的电商卖家端，采用wepy框架开发](https://github.com/coolhwm/leshare-seller-wepy) ⭐ 703 | 🐛 12 | 🌐 JavaScript | 📅 2018-08-01
 * [we川大：使用wepy框架开发的校园综合类小程序](https://github.com/mohuishou/scuplus-wechat) ⚠️ Archived
-* [wepy-wechat-demo：基于wepy开发的仿微信聊天界面小程序](https://github.com/wepyjs/wepy-wechat-demo) ⭐ 537 | 🐛 19 | 🌐 JavaScript | 📅 2022-12-06
+* [wepy-wechat-demo：基于wepy开发的仿微信聊天界面小程序](https://github.com/wepyjs/wepy-wechat-demo) ⭐ 538 | 🐛 19 | 🌐 JavaScript | 📅 2022-12-06
 * [weapp-poem: 诗词墨客](https://github.com/huangjianke/weapp-poem) ⭐ 506 | 🐛 8 | 🌐 JavaScript | 📅 2018-11-28
 * [jiezhang: 基于wepy开发的记账小程序](https://github.com/yigger/jiezhang) ⭐ 483 | 🐛 11 | 🌐 JavaScript | 📅 2026-05-21
 * [sdb-mall: 直播小程序拼团商城](https://github.com/yjjdick/sdb-mall) ⭐ 430 | 🐛 0 | 🌐 Java | 📅 2025-11-18
@@ -59,7 +59,7 @@
 * [计生记mp-jishengji: 日常生活记录类的小程序](https://github.com/ximolang/mp-jishengji) ⭐ 350 | 🐛 3 | 🌐 JavaScript | 📅 2019-03-14
 * [深大的树洞：基于wepy开发的树洞类微信小程序](https://github.com/jas0ncn/szushudong) ⭐ 306 | 🐛 1 | 🌐 JavaScript | 📅 2017-07-30
 * [wepy-demo-bookmall：微信小程序🐼📖代码示例，使用wepy框架及weui样式开发](https://github.com/Thunf/wepy-demo-bookmall) ⭐ 282 | 🐛 2 | 🌐 JavaScript | 📅 2018-03-12
-* [weapp-hiapp：使用wepy+zanui+redux开发的社区类小程序开源版](https://github.com/BelinChung/weapp-hiapp) ⭐ 236 | 🐛 2 | 🌐 Vue | 📅 2019-10-15
+* [weapp-hiapp：使用wepy+zanui+redux开发的社区类小程序开源版](https://github.com/BelinChung/weapp-hiapp) ⭐ 237 | 🐛 2 | 🌐 Vue | 📅 2019-10-15
 * [wepy\_ios\_top: 一款可以切换国家查看不同国家iOS应用排行榜的小程序](https://github.com/szpnygo/wepy_ios_top) ⭐ 193 | 🐛 2 | 🌐 CSS | 📅 2020-06-23
 * [shanbay-mina: 基于wepy框架的“扇贝阅读”微信小程序](https://github.com/yshkk/shanbay-mina) ⭐ 177 | 🐛 3 | 🌐 JavaScript | 📅 2017-12-24
 * [wepy-ufutx-library：友福图书馆(基于Thunf's bookmall, 持续开发共享)](https://github.com/glore/library) ⭐ 164 | 🐛 9 | 🌐 JavaScript | 📅 2023-07-20
@@ -108,7 +108,7 @@
 
 * **UI类组件**
 
-  * [wepy-weui-demo：WeUI在WePY中的使用示例，同一份代码可以运行在小程序上和Web上](https://github.com/wepyjs/wepy-weui-demo) ⭐ 379 | 🐛 13 | 🌐 CSS | 📅 2020-10-02
+  * [wepy-weui-demo：WeUI在WePY中的使用示例，同一份代码可以运行在小程序上和Web上](https://github.com/wepyjs/wepy-weui-demo) ⭐ 380 | 🐛 13 | 🌐 CSS | 📅 2020-10-02
   * [wepy-zanui-demo：基于zanui-weapp移植的一套wepy界面框架](https://github.com/brucx/wepy-zanui-demo) ⭐ 236 | 🐛 9 | 🌐 CSS | 📅 2018-05-10
   * [kai-ui：基于WePY框架的高颜值、高效率组件库](https://github.com/Chaunjie/kai-ui) ⭐ 211 | 🐛 4 | 🌐 JavaScript | 📅 2018-11-23
   * [wepy-com-toast：微信小程序toast组件](https://github.com/wepyjs/wepy-com-toast) ⭐ 105 | 🐛 4 | 🌐 JavaScript | 📅 2017-04-13
@@ -238,4 +238,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
