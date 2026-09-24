@@ -53,7 +53,7 @@
 * [we川大：使用wepy框架开发的校园综合类小程序](https://github.com/mohuishou/scuplus-wechat) ⚠️ Archived
 * [wepy-wechat-demo：基于wepy开发的仿微信聊天界面小程序](https://github.com/wepyjs/wepy-wechat-demo) ⭐ 538 | 🐛 19 | 🌐 JavaScript | 📅 2022-12-06
 * [weapp-poem: 诗词墨客](https://github.com/huangjianke/weapp-poem) ⭐ 506 | 🐛 8 | 🌐 JavaScript | 📅 2018-11-28
-* [jiezhang: 基于wepy开发的记账小程序](https://github.com/yigger/jiezhang) ⭐ 483 | 🐛 11 | 🌐 JavaScript | 📅 2026-05-21
+* [jiezhang: 基于wepy开发的记账小程序](https://github.com/yigger/jiezhang) ⭐ 484 | 🐛 11 | 🌐 JavaScript | 📅 2026-05-21
 * [sdb-mall: 直播小程序拼团商城](https://github.com/yjjdick/sdb-mall) ⭐ 430 | 🐛 0 | 🌐 Java | 📅 2025-11-18
 * [wepy-books：微信小程序wepy版图书管理系统](https://github.com/KingJeason/wepy-books) ⭐ 390 | 🐛 4 | 🌐 JavaScript | 📅 2018-05-06
 * [计生记mp-jishengji: 日常生活记录类的小程序](https://github.com/ximolang/mp-jishengji) ⭐ 350 | 🐛 3 | 🌐 JavaScript | 📅 2019-03-14
@@ -108,9 +108,9 @@
 
 * **UI类组件**
 
-  * [wepy-weui-demo：WeUI在WePY中的使用示例，同一份代码可以运行在小程序上和Web上](https://github.com/wepyjs/wepy-weui-demo) ⭐ 380 | 🐛 13 | 🌐 CSS | 📅 2020-10-02
+  * [wepy-weui-demo：WeUI在WePY中的使用示例，同一份代码可以运行在小程序上和Web上](https://github.com/wepyjs/wepy-weui-demo) ⭐ 381 | 🐛 13 | 🌐 CSS | 📅 2020-10-02
   * [wepy-zanui-demo：基于zanui-weapp移植的一套wepy界面框架](https://github.com/brucx/wepy-zanui-demo) ⭐ 236 | 🐛 9 | 🌐 CSS | 📅 2018-05-10
-  * [kai-ui：基于WePY框架的高颜值、高效率组件库](https://github.com/Chaunjie/kai-ui) ⭐ 211 | 🐛 4 | 🌐 JavaScript | 📅 2018-11-23
+  * [kai-ui：基于WePY框架的高颜值、高效率组件库](https://github.com/Chaunjie/kai-ui) ⭐ 212 | 🐛 4 | 🌐 JavaScript | 📅 2018-11-23
   * [wepy-com-toast：微信小程序toast组件](https://github.com/wepyjs/wepy-com-toast) ⭐ 105 | 🐛 4 | 🌐 JavaScript | 📅 2017-04-13
   * [wepy-X-minui：蘑菇街minui小程序UI组件库wepy版](https://github.com/jimmyrogue/wepy-X-minui) ⚠️ Archived
   * [wepy-com-swiper：微信小程序触摸内容滑动解决方案，适用于wepy框架](https://github.com/dlhandsome/wepy-com-swiper) ⭐ 76 | 🐛 8 | 🌐 JavaScript | 📅 2018-10-10
@@ -238,4 +238,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
