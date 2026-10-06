@@ -214,7 +214,7 @@
                 "id": 136196632,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-10-05T14:01:38Z",
+                "last_commit": "2026-10-06T00:42:17Z",
                 "open_issues": 11,
                 "owner": "yigger",
                 "repo": "jiezhang",
@@ -3348,7 +3348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T20:54:31.840Z",
+    "last_updated": "2026-10-06T11:03:41.439Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome for wepy ! 微信小程序组件化开发框架wepy开发资源汇总",
