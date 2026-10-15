@@ -21,7 +21,7 @@
                 "open_issues": 381,
                 "owner": "Tencent",
                 "repo": "wepy",
-                "stars": 22530,
+                "stars": 22527,
                 "topics": [
                   "weapp",
                   "wepy"
@@ -500,7 +500,7 @@
                 "open_issues": 1,
                 "owner": "summerblue",
                 "repo": "larabbs-weapp",
-                "stars": 65,
+                "stars": 64,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:44:03.787Z"
@@ -619,7 +619,7 @@
                 "open_issues": 0,
                 "owner": "jackdizhu",
                 "repo": "WePY_app",
-                "stars": 46,
+                "stars": 45,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:44:03.787Z"
@@ -1314,7 +1314,7 @@
                     "open_issues": 4,
                     "owner": "Chaunjie",
                     "repo": "kai-ui",
-                    "stars": 212,
+                    "stars": 211,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:44:03.787Z"
@@ -2263,7 +2263,7 @@
                     "open_issues": 3,
                     "owner": "tolerance-go",
                     "repo": "weappx",
-                    "stars": 143,
+                    "stars": 142,
                     "topics": [
                       "immer",
                       "redux",
@@ -2906,7 +2906,7 @@
                 "open_issues": 24,
                 "owner": "wdfe",
                 "repo": "weweb",
-                "stars": 596,
+                "stars": 595,
                 "topics": [
                   "cli",
                   "weapp"
@@ -3348,7 +3348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T17:37:59.593Z",
+    "last_updated": "2026-10-15T17:23:55.613Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome for wepy ! 微信小程序组件化开发框架wepy开发资源汇总",

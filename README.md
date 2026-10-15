@@ -65,12 +65,12 @@
 * [wepy-ufutx-library：友福图书馆(基于Thunf's bookmall, 持续开发共享)](https://github.com/glore/library) ⭐ 164 | 🐛 9 | 🌐 JavaScript | 📅 2023-07-20
 * [steedos: 华炎微站、微商城，含SAAS服务端](https://github.com/steedos/mini-vip) ⭐ 88 | 🐛 22 | 🌐 CSS | 📅 2019-08-27
 * [fashion-mall：服装购物商城，基于 wepy，有本地服务器可测试学习](https://github.com/weimingwill/fashion-mall) ⭐ 76 | 🐛 17 | 🌐 JavaScript | 📅 2023-07-18
-* [larabbs-weapp：使用 wepy 开发的论坛类小程序，对接 Laravel 开发的 REST 风格接口](https://github.com/summerblue/larabbs-weapp) ⭐ 65 | 🐛 1 | 🌐 CSS | 📅 2022-06-26
+* [larabbs-weapp：使用 wepy 开发的论坛类小程序，对接 Laravel 开发的 REST 风格接口](https://github.com/summerblue/larabbs-weapp) ⭐ 64 | 🐛 1 | 🌐 CSS | 📅 2022-06-26
 * [newBadminton羽球自由赛: 基于wepy开发的羽毛球活动组织工具小程序](https://github.com/jasscia/newBadminton) ⭐ 57 | 🐛 4 | 🌐 CSS | 📅 2023-03-01
 * [sea-ai: 基于wepy和云开发的图像智能Ai小程序(接入百度AI平台)](https://github.com/lxljl/sea-ai) ⭐ 55 | 🐛 0 | 🌐 JavaScript | 📅 2020-05-25
 * [cardiovascular-tracker：使用wepy框架开发的心血管健康助理小程序](https://github.com/hjkcai/cardiovascular-tracker) ⚠️ Archived
 * [wepy-one：微信小程序one(wepy版本)](https://github.com/huangang/wepy-one) ⭐ 46 | 🐛 0 | 🌐 JavaScript | 📅 2018-02-24
-* [nearby: 周边生活导航](https://github.com/jackdizhu/WePY_app) ⭐ 46 | 🐛 0 | 🌐 JavaScript | 📅 2020-07-30
+* [nearby: 周边生活导航](https://github.com/jackdizhu/WePY_app) ⭐ 45 | 🐛 0 | 🌐 JavaScript | 📅 2020-07-30
 * [wepyshop: 基于wepy的商城小程序](https://github.com/huangxifuhxf/wepyshop) ⭐ 44 | 🐛 0 | 🌐 JavaScript | 📅 2018-05-18
 * [有趣视频(youqu): 基于WePY开发, 模仿开眼App的一个视频小程序](https://github.com/terryso/youqu) ⭐ 40 | 🐛 0 | 🌐 SCSS | 📅 2020-12-01
 * [WordGame-wepy: 基于wepy实现的微信小程序，一款文字游戏](https://github.com/zh8637688/WordGame-wepy) ⭐ 34 | 🐛 0 | 🌐 JavaScript | 📅 2018-04-07
@@ -110,7 +110,7 @@
 
   * [wepy-weui-demo：WeUI在WePY中的使用示例，同一份代码可以运行在小程序上和Web上](https://github.com/wepyjs/wepy-weui-demo) ⭐ 381 | 🐛 13 | 🌐 CSS | 📅 2020-10-02
   * [wepy-zanui-demo：基于zanui-weapp移植的一套wepy界面框架](https://github.com/brucx/wepy-zanui-demo) ⭐ 236 | 🐛 9 | 🌐 CSS | 📅 2018-05-10
-  * [kai-ui：基于WePY框架的高颜值、高效率组件库](https://github.com/Chaunjie/kai-ui) ⭐ 212 | 🐛 4 | 🌐 JavaScript | 📅 2018-11-23
+  * [kai-ui：基于WePY框架的高颜值、高效率组件库](https://github.com/Chaunjie/kai-ui) ⭐ 211 | 🐛 4 | 🌐 JavaScript | 📅 2018-11-23
   * [wepy-com-toast：微信小程序toast组件](https://github.com/wepyjs/wepy-com-toast) ⭐ 105 | 🐛 4 | 🌐 JavaScript | 📅 2017-04-13
   * [wepy-X-minui：蘑菇街minui小程序UI组件库wepy版](https://github.com/jimmyrogue/wepy-X-minui) ⚠️ Archived
   * [wepy-com-swiper：微信小程序触摸内容滑动解决方案，适用于wepy框架](https://github.com/dlhandsome/wepy-com-swiper) ⭐ 76 | 🐛 8 | 🌐 JavaScript | 📅 2018-10-10
@@ -191,7 +191,7 @@
 
 ### WePY相关工具
 
-* [WeWeb：兼容微信小程序语法(包括wepy语法)的Web框架](https://github.com/wdfe/weweb) ⭐ 596 | 🐛 24 | 🌐 JavaScript | 📅 2021-05-04
+* [WeWeb：兼容微信小程序语法(包括wepy语法)的Web框架](https://github.com/wdfe/weweb) ⭐ 595 | 🐛 24 | 🌐 JavaScript | 📅 2021-05-04
 * [wepy-utils: 小程序WePy工具集整合](https://github.com/MiGongOrg/wepy-utils) ⭐ 72 | 🐛 0 | 🌐 JavaScript | 📅 2020-05-08
 * [wepy-template: 微信小程序模板框架wepy版，支持TypeScript](https://github.com/MMF-FE/wepy-template) ⭐ 37 | 🐛 8 | 🌐 JavaScript | 📅 2022-12-07
 * [wepy-plugin-px2units: wepy框架px2units插件](https://github.com/yingye/wepy-plugin-px2units) ⭐ 30 | 🐛 6 | 🌐 JavaScript | 📅 2022-12-02
@@ -238,4 +238,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
