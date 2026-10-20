@@ -191,7 +191,7 @@
 
 ### WePY相关工具
 
-* [WeWeb：兼容微信小程序语法(包括wepy语法)的Web框架](https://github.com/wdfe/weweb) ⭐ 595 | 🐛 24 | 🌐 JavaScript | 📅 2021-05-04
+* [WeWeb：兼容微信小程序语法(包括wepy语法)的Web框架](https://github.com/wdfe/weweb) ⭐ 596 | 🐛 24 | 🌐 JavaScript | 📅 2021-05-04
 * [wepy-utils: 小程序WePy工具集整合](https://github.com/MiGongOrg/wepy-utils) ⭐ 72 | 🐛 0 | 🌐 JavaScript | 📅 2020-05-08
 * [wepy-template: 微信小程序模板框架wepy版，支持TypeScript](https://github.com/MMF-FE/wepy-template) ⭐ 37 | 🐛 8 | 🌐 JavaScript | 📅 2022-12-07
 * [wepy-plugin-px2units: wepy框架px2units插件](https://github.com/yingye/wepy-plugin-px2units) ⭐ 30 | 🐛 6 | 🌐 JavaScript | 📅 2022-12-02
@@ -238,4 +238,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._

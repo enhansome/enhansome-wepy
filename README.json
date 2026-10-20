@@ -21,7 +21,7 @@
                 "open_issues": 381,
                 "owner": "Tencent",
                 "repo": "wepy",
-                "stars": 22525,
+                "stars": 22522,
                 "topics": [
                   "weapp",
                   "wepy"
@@ -2906,7 +2906,7 @@
                 "open_issues": 24,
                 "owner": "wdfe",
                 "repo": "weweb",
-                "stars": 595,
+                "stars": 596,
                 "topics": [
                   "cli",
                   "weapp"
@@ -3348,7 +3348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T18:51:09.736Z",
+    "last_updated": "2026-10-20T17:34:32.233Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome for wepy ! 微信小程序组件化开发框架wepy开发资源汇总",
