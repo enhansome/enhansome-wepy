@@ -189,7 +189,7 @@
                 "open_issues": 8,
                 "owner": "nslogx",
                 "repo": "weapp-poem",
-                "stars": 506,
+                "stars": 507,
                 "topics": [
                   "chinese",
                   "chinese-poetry",
@@ -3348,7 +3348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T17:41:54.926Z",
+    "last_updated": "2026-10-22T17:40:01.800Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome for wepy ! 微信小程序组件化开发框架wepy开发资源汇总",
