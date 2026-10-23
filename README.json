@@ -2380,7 +2380,7 @@
                     "open_issues": 10,
                     "owner": "yalishizhude",
                     "repo": "RxWX",
-                    "stars": 166,
+                    "stars": 165,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:44:03.787Z"
@@ -3348,7 +3348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T17:40:01.800Z",
+    "last_updated": "2026-10-23T17:30:21.632Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome for wepy ! 微信小程序组件化开发框架wepy开发资源汇总",
@@ -3360,7 +3360,7 @@
       "open_issues": 1,
       "owner": "aben1188",
       "repo": "awesome-wepy",
-      "stars": 4366,
+      "stars": 4367,
       "topics": []
     },
     "original_repository_sha": "4c4b0e5b4b47435c2b28041210cd98e597194b4f",
