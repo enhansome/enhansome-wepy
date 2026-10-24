@@ -21,7 +21,7 @@
                 "open_issues": 381,
                 "owner": "Tencent",
                 "repo": "wepy",
-                "stars": 22520,
+                "stars": 22518,
                 "topics": [
                   "weapp",
                   "wepy"
@@ -2353,7 +2353,7 @@
                     "open_issues": 33,
                     "owner": "yingye",
                     "repo": "weapp-qrcode",
-                    "stars": 1718,
+                    "stars": 1717,
                     "topics": [
                       "qrcode",
                       "weapp",
@@ -3348,7 +3348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T17:30:21.632Z",
+    "last_updated": "2026-10-24T16:17:02.517Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome for wepy ! 微信小程序组件化开发框架wepy开发资源汇总",
