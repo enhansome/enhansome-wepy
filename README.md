@@ -56,7 +56,7 @@
 * [jiezhang: 基于wepy开发的记账小程序](https://github.com/yigger/jiezhang) ⭐ 484 | 🐛 11 | 🌐 JavaScript | 📅 2026-10-11
 * [sdb-mall: 直播小程序拼团商城](https://github.com/yjjdick/sdb-mall) ⭐ 430 | 🐛 0 | 🌐 Java | 📅 2025-11-18
 * [wepy-books：微信小程序wepy版图书管理系统](https://github.com/KingJeason/wepy-books) ⭐ 390 | 🐛 4 | 🌐 JavaScript | 📅 2018-05-06
-* [计生记mp-jishengji: 日常生活记录类的小程序](https://github.com/ximolang/mp-jishengji) ⭐ 350 | 🐛 3 | 🌐 JavaScript | 📅 2019-03-14
+* [计生记mp-jishengji: 日常生活记录类的小程序](https://github.com/ximolang/mp-jishengji) ⭐ 349 | 🐛 3 | 🌐 JavaScript | 📅 2019-03-14
 * [深大的树洞：基于wepy开发的树洞类微信小程序](https://github.com/jas0ncn/szushudong) ⭐ 306 | 🐛 1 | 🌐 JavaScript | 📅 2017-07-30
 * [wepy-demo-bookmall：微信小程序🐼📖代码示例，使用wepy框架及weui样式开发](https://github.com/Thunf/wepy-demo-bookmall) ⭐ 282 | 🐛 2 | 🌐 JavaScript | 📅 2018-03-12
 * [weapp-hiapp：使用wepy+zanui+redux开发的社区类小程序开源版](https://github.com/BelinChung/weapp-hiapp) ⭐ 237 | 🐛 2 | 🌐 Vue | 📅 2019-10-15
@@ -238,4 +238,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
