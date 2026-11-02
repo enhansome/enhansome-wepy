@@ -64,7 +64,7 @@
 * [shanbay-mina: 基于wepy框架的“扇贝阅读”微信小程序](https://github.com/yshkk/shanbay-mina) ⭐ 177 | 🐛 3 | 🌐 JavaScript | 📅 2017-12-24
 * [wepy-ufutx-library：友福图书馆(基于Thunf's bookmall, 持续开发共享)](https://github.com/glore/library) ⭐ 164 | 🐛 9 | 🌐 JavaScript | 📅 2023-07-20
 * [steedos: 华炎微站、微商城，含SAAS服务端](https://github.com/steedos/mini-vip) ⭐ 88 | 🐛 22 | 🌐 CSS | 📅 2019-08-27
-* [fashion-mall：服装购物商城，基于 wepy，有本地服务器可测试学习](https://github.com/weimingwill/fashion-mall) ⭐ 76 | 🐛 17 | 🌐 JavaScript | 📅 2023-07-18
+* [fashion-mall：服装购物商城，基于 wepy，有本地服务器可测试学习](https://github.com/weimingwill/fashion-mall) ⭐ 75 | 🐛 17 | 🌐 JavaScript | 📅 2023-07-18
 * [larabbs-weapp：使用 wepy 开发的论坛类小程序，对接 Laravel 开发的 REST 风格接口](https://github.com/summerblue/larabbs-weapp) ⭐ 64 | 🐛 1 | 🌐 CSS | 📅 2022-06-26
 * [newBadminton羽球自由赛: 基于wepy开发的羽毛球活动组织工具小程序](https://github.com/jasscia/newBadminton) ⭐ 58 | 🐛 4 | 🌐 CSS | 📅 2023-03-01
 * [sea-ai: 基于wepy和云开发的图像智能Ai小程序(接入百度AI平台)](https://github.com/lxljl/sea-ai) ⭐ 55 | 🐛 0 | 🌐 JavaScript | 📅 2020-05-25
@@ -238,4 +238,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._

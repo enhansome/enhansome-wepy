@@ -21,7 +21,7 @@
                 "open_issues": 381,
                 "owner": "Tencent",
                 "repo": "wepy",
-                "stars": 22516,
+                "stars": 22515,
                 "topics": [
                   "weapp",
                   "wepy"
@@ -479,7 +479,7 @@
                 "open_issues": 17,
                 "owner": "weimingwill",
                 "repo": "fashion-mall",
-                "stars": 76,
+                "stars": 75,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:44:03.787Z"
@@ -3348,7 +3348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T18:09:05.317Z",
+    "last_updated": "2026-11-02T21:57:16.354Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome for wepy ! 微信小程序组件化开发框架wepy开发资源汇总",
