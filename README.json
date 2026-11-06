@@ -21,7 +21,7 @@
                 "open_issues": 381,
                 "owner": "Tencent",
                 "repo": "wepy",
-                "stars": 22510,
+                "stars": 22507,
                 "topics": [
                   "weapp",
                   "wepy"
@@ -137,7 +137,7 @@
                 "open_issues": 1,
                 "owner": "mohuishou",
                 "repo": "scuplus-wechat",
-                "stars": 691,
+                "stars": 690,
                 "topics": [
                   "scu",
                   "scuplus",
@@ -3348,7 +3348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T20:19:03.382Z",
+    "last_updated": "2026-11-06T19:43:49.800Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome for wepy ! 微信小程序组件化开发框架wepy开发资源汇总",
@@ -3360,7 +3360,7 @@
       "open_issues": 1,
       "owner": "aben1188",
       "repo": "awesome-wepy",
-      "stars": 4365,
+      "stars": 4363,
       "topics": []
     },
     "original_repository_sha": "4c4b0e5b4b47435c2b28041210cd98e597194b4f",
