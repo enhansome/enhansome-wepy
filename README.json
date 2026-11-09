@@ -21,7 +21,7 @@
                 "open_issues": 381,
                 "owner": "Tencent",
                 "repo": "wepy",
-                "stars": 22508,
+                "stars": 22506,
                 "topics": [
                   "weapp",
                   "wepy"
@@ -189,7 +189,7 @@
                 "open_issues": 8,
                 "owner": "nslogx",
                 "repo": "weapp-poem",
-                "stars": 506,
+                "stars": 507,
                 "topics": [
                   "chinese",
                   "chinese-poetry",
@@ -2353,7 +2353,7 @@
                     "open_issues": 33,
                     "owner": "yingye",
                     "repo": "weapp-qrcode",
-                    "stars": 1717,
+                    "stars": 1718,
                     "topics": [
                       "qrcode",
                       "weapp",
@@ -3348,7 +3348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T18:06:55.830Z",
+    "last_updated": "2026-11-09T22:44:30.569Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome for wepy ! 微信小程序组件化开发框架wepy开发资源汇总",

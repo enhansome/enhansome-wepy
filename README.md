@@ -52,7 +52,7 @@
 * [leshare-seller-wepy：基于小程序的电商卖家端，采用wepy框架开发](https://github.com/coolhwm/leshare-seller-wepy) ⭐ 703 | 🐛 12 | 🌐 JavaScript | 📅 2018-08-01
 * [we川大：使用wepy框架开发的校园综合类小程序](https://github.com/mohuishou/scuplus-wechat) ⚠️ Archived
 * [wepy-wechat-demo：基于wepy开发的仿微信聊天界面小程序](https://github.com/wepyjs/wepy-wechat-demo) ⭐ 538 | 🐛 19 | 🌐 JavaScript | 📅 2022-12-06
-* [weapp-poem: 诗词墨客](https://github.com/huangjianke/weapp-poem) ⭐ 506 | 🐛 8 | 🌐 JavaScript | 📅 2018-11-28
+* [weapp-poem: 诗词墨客](https://github.com/huangjianke/weapp-poem) ⭐ 507 | 🐛 8 | 🌐 JavaScript | 📅 2018-11-28
 * [jiezhang: 基于wepy开发的记账小程序](https://github.com/yigger/jiezhang) ⭐ 486 | 🐛 11 | 🌐 JavaScript | 📅 2026-10-11
 * [sdb-mall: 直播小程序拼团商城](https://github.com/yjjdick/sdb-mall) ⭐ 429 | 🐛 0 | 🌐 Java | 📅 2025-11-18
 * [wepy-books：微信小程序wepy版图书管理系统](https://github.com/KingJeason/wepy-books) ⭐ 390 | 🐛 4 | 🌐 JavaScript | 📅 2018-05-06
@@ -162,7 +162,7 @@
   * [wepy-plugin-img2base64：小程序图片转base64的WePy插件](https://github.com/xwxtwd/wepy-plugin-img2base64) ⚠️ Archived
   * [wepy-upyun\_upload-component：微信小程序又拍云上传组件wepy版](https://github.com/aben1188/wepy-upyun_upload-component) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2018-02-02
     <!-- - [wepy-com-datepicker：微信小程序预约时间组件](https://github.com/jasondu/wepy-com-datepicker) -->
-  * [weapp-qrcode：在微信小程序中，快速生成二维码](https://github.com/yingye/weapp-qrcode) ⭐ 1,717 | 🐛 33 | 🌐 JavaScript | 📅 2023-01-04
+  * [weapp-qrcode：在微信小程序中，快速生成二维码](https://github.com/yingye/weapp-qrcode) ⭐ 1,718 | 🐛 33 | 🌐 JavaScript | 📅 2023-01-04
   * [RxWX: 用于微信小程序的RxJS，支持wepy](https://github.com/yalishizhude/RxWX) ⭐ 165 | 🐛 10 | 🌐 JavaScript | 📅 2022-12-03
   * [wepy-plugin-axios：在 wepy 中使用 axios](https://github.com/hjkcai/wepy-plugin-axios) ⚠️ Archived
   * [wepy\_canvas\_drawer: 微信小程序上canvas绘制图片助手，一个json就制作分享朋友圈图片](https://github.com/simmzl/wepy_canvas_drawer) ⭐ 77 | 🐛 0 | 🌐 JavaScript | 📅 2021-04-27
@@ -238,4 +238,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
