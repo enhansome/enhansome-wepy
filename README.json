@@ -21,7 +21,7 @@
                 "open_issues": 381,
                 "owner": "Tencent",
                 "repo": "wepy",
-                "stars": 22504,
+                "stars": 22505,
                 "topics": [
                   "weapp",
                   "wepy"
@@ -52,7 +52,7 @@
                 "open_issues": 15,
                 "owner": "dyq086",
                 "repo": "wepy-mall",
-                "stars": 3384,
+                "stars": 3383,
                 "topics": [
                   "app",
                   "college",
@@ -412,7 +412,7 @@
                 "open_issues": 3,
                 "owner": "yshkk",
                 "repo": "shanbay-mina",
-                "stars": 177,
+                "stars": 176,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:44:03.787Z"
@@ -2353,7 +2353,7 @@
                     "open_issues": 33,
                     "owner": "yingye",
                     "repo": "weapp-qrcode",
-                    "stars": 1717,
+                    "stars": 1718,
                     "topics": [
                       "qrcode",
                       "weapp",
@@ -3348,7 +3348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T20:03:08.997Z",
+    "last_updated": "2026-11-11T19:53:28.952Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome for wepy ! 微信小程序组件化开发框架wepy开发资源汇总",

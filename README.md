@@ -47,7 +47,7 @@
 
 ### WePY开源项目
 
-* [wxYuHanStore：基于wepy开发的商城(微店)微信小程序](https://github.com/dyq086/wxYuHanStore) ⭐ 3,384 | 🐛 15 | 🌐 JavaScript | 📅 2021-05-18
+* [wxYuHanStore：基于wepy开发的商城(微店)微信小程序](https://github.com/dyq086/wxYuHanStore) ⭐ 3,383 | 🐛 15 | 🌐 JavaScript | 📅 2021-05-18
 * [leshare-food-wepy：基于微信小程序的外卖店铺，采用wepy框架开发](https://github.com/coolhwm/leshare-food-wepy) ⭐ 848 | 🐛 26 | 🌐 JavaScript | 📅 2019-01-03
 * [leshare-seller-wepy：基于小程序的电商卖家端，采用wepy框架开发](https://github.com/coolhwm/leshare-seller-wepy) ⭐ 703 | 🐛 12 | 🌐 JavaScript | 📅 2018-08-01
 * [we川大：使用wepy框架开发的校园综合类小程序](https://github.com/mohuishou/scuplus-wechat) ⚠️ Archived
@@ -61,7 +61,7 @@
 * [wepy-demo-bookmall：微信小程序🐼📖代码示例，使用wepy框架及weui样式开发](https://github.com/Thunf/wepy-demo-bookmall) ⭐ 282 | 🐛 2 | 🌐 JavaScript | 📅 2018-03-12
 * [weapp-hiapp：使用wepy+zanui+redux开发的社区类小程序开源版](https://github.com/BelinChung/weapp-hiapp) ⭐ 237 | 🐛 2 | 🌐 Vue | 📅 2019-10-15
 * [wepy\_ios\_top: 一款可以切换国家查看不同国家iOS应用排行榜的小程序](https://github.com/szpnygo/wepy_ios_top) ⭐ 193 | 🐛 2 | 🌐 CSS | 📅 2020-06-23
-* [shanbay-mina: 基于wepy框架的“扇贝阅读”微信小程序](https://github.com/yshkk/shanbay-mina) ⭐ 177 | 🐛 3 | 🌐 JavaScript | 📅 2017-12-24
+* [shanbay-mina: 基于wepy框架的“扇贝阅读”微信小程序](https://github.com/yshkk/shanbay-mina) ⭐ 176 | 🐛 3 | 🌐 JavaScript | 📅 2017-12-24
 * [wepy-ufutx-library：友福图书馆(基于Thunf's bookmall, 持续开发共享)](https://github.com/glore/library) ⭐ 164 | 🐛 9 | 🌐 JavaScript | 📅 2023-07-20
 * [steedos: 华炎微站、微商城，含SAAS服务端](https://github.com/steedos/mini-vip) ⭐ 88 | 🐛 22 | 🌐 CSS | 📅 2019-08-27
 * [fashion-mall：服装购物商城，基于 wepy，有本地服务器可测试学习](https://github.com/weimingwill/fashion-mall) ⭐ 75 | 🐛 17 | 🌐 JavaScript | 📅 2023-07-18
@@ -162,7 +162,7 @@
   * [wepy-plugin-img2base64：小程序图片转base64的WePy插件](https://github.com/xwxtwd/wepy-plugin-img2base64) ⚠️ Archived
   * [wepy-upyun\_upload-component：微信小程序又拍云上传组件wepy版](https://github.com/aben1188/wepy-upyun_upload-component) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2018-02-02
     <!-- - [wepy-com-datepicker：微信小程序预约时间组件](https://github.com/jasondu/wepy-com-datepicker) -->
-  * [weapp-qrcode：在微信小程序中，快速生成二维码](https://github.com/yingye/weapp-qrcode) ⭐ 1,717 | 🐛 33 | 🌐 JavaScript | 📅 2023-01-04
+  * [weapp-qrcode：在微信小程序中，快速生成二维码](https://github.com/yingye/weapp-qrcode) ⭐ 1,718 | 🐛 33 | 🌐 JavaScript | 📅 2023-01-04
   * [RxWX: 用于微信小程序的RxJS，支持wepy](https://github.com/yalishizhude/RxWX) ⭐ 165 | 🐛 10 | 🌐 JavaScript | 📅 2022-12-03
   * [wepy-plugin-axios：在 wepy 中使用 axios](https://github.com/hjkcai/wepy-plugin-axios) ⚠️ Archived
   * [wepy\_canvas\_drawer: 微信小程序上canvas绘制图片助手，一个json就制作分享朋友圈图片](https://github.com/simmzl/wepy_canvas_drawer) ⭐ 77 | 🐛 0 | 🌐 JavaScript | 📅 2021-04-27
@@ -238,4 +238,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
