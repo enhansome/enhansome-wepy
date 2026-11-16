@@ -52,7 +52,7 @@
 * [leshare-seller-wepy：基于小程序的电商卖家端，采用wepy框架开发](https://github.com/coolhwm/leshare-seller-wepy) ⭐ 703 | 🐛 12 | 🌐 JavaScript | 📅 2018-08-01
 * [we川大：使用wepy框架开发的校园综合类小程序](https://github.com/mohuishou/scuplus-wechat) ⚠️ Archived
 * [wepy-wechat-demo：基于wepy开发的仿微信聊天界面小程序](https://github.com/wepyjs/wepy-wechat-demo) ⭐ 538 | 🐛 19 | 🌐 JavaScript | 📅 2022-12-06
-* [weapp-poem: 诗词墨客](https://github.com/huangjianke/weapp-poem) ⭐ 507 | 🐛 8 | 🌐 JavaScript | 📅 2018-11-28
+* [weapp-poem: 诗词墨客](https://github.com/huangjianke/weapp-poem) ⭐ 508 | 🐛 8 | 🌐 JavaScript | 📅 2018-11-28
 * [jiezhang: 基于wepy开发的记账小程序](https://github.com/yigger/jiezhang) ⭐ 486 | 🐛 11 | 🌐 JavaScript | 📅 2026-10-11
 * [sdb-mall: 直播小程序拼团商城](https://github.com/yjjdick/sdb-mall) ⭐ 429 | 🐛 0 | 🌐 Java | 📅 2025-11-18
 * [wepy-books：微信小程序wepy版图书管理系统](https://github.com/KingJeason/wepy-books) ⭐ 390 | 🐛 4 | 🌐 JavaScript | 📅 2018-05-06
@@ -191,7 +191,7 @@
 
 ### WePY相关工具
 
-* [WeWeb：兼容微信小程序语法(包括wepy语法)的Web框架](https://github.com/wdfe/weweb) ⭐ 596 | 🐛 24 | 🌐 JavaScript | 📅 2021-05-04
+* [WeWeb：兼容微信小程序语法(包括wepy语法)的Web框架](https://github.com/wdfe/weweb) ⭐ 597 | 🐛 24 | 🌐 JavaScript | 📅 2021-05-04
 * [wepy-utils: 小程序WePy工具集整合](https://github.com/MiGongOrg/wepy-utils) ⭐ 72 | 🐛 0 | 🌐 JavaScript | 📅 2020-05-08
 * [wepy-template: 微信小程序模板框架wepy版，支持TypeScript](https://github.com/MMF-FE/wepy-template) ⭐ 37 | 🐛 8 | 🌐 JavaScript | 📅 2022-12-07
 * [wepy-plugin-px2units: wepy框架px2units插件](https://github.com/yingye/wepy-plugin-px2units) ⭐ 30 | 🐛 6 | 🌐 JavaScript | 📅 2022-12-02
@@ -238,4 +238,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
