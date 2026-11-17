@@ -3348,7 +3348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T22:34:11.960Z",
+    "last_updated": "2026-11-17T21:23:24.360Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome for wepy ! 微信小程序组件化开发框架wepy开发资源汇总",
@@ -3360,7 +3360,7 @@
       "open_issues": 1,
       "owner": "aben1188",
       "repo": "awesome-wepy",
-      "stars": 4361,
+      "stars": 4360,
       "topics": []
     },
     "original_repository_sha": "4c4b0e5b4b47435c2b28041210cd98e597194b4f",
