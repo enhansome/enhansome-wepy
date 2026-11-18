@@ -21,7 +21,7 @@
                 "open_issues": 381,
                 "owner": "Tencent",
                 "repo": "wepy",
-                "stars": 22501,
+                "stars": 22502,
                 "topics": [
                   "weapp",
                   "wepy"
@@ -189,7 +189,7 @@
                 "open_issues": 8,
                 "owner": "nslogx",
                 "repo": "weapp-poem",
-                "stars": 508,
+                "stars": 507,
                 "topics": [
                   "chinese",
                   "chinese-poetry",
@@ -3348,7 +3348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T21:23:24.360Z",
+    "last_updated": "2026-11-18T20:55:52.647Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome for wepy ! 微信小程序组件化开发框架wepy开发资源汇总",
