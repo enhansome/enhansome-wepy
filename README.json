@@ -2353,7 +2353,7 @@
                     "open_issues": 33,
                     "owner": "yingye",
                     "repo": "weapp-qrcode",
-                    "stars": 1718,
+                    "stars": 1717,
                     "topics": [
                       "qrcode",
                       "weapp",
@@ -2906,7 +2906,7 @@
                 "open_issues": 24,
                 "owner": "wdfe",
                 "repo": "weweb",
-                "stars": 597,
+                "stars": 596,
                 "topics": [
                   "cli",
                   "weapp"
@@ -3348,7 +3348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T20:55:52.647Z",
+    "last_updated": "2026-11-19T21:01:08.854Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome for wepy ! 微信小程序组件化开发框架wepy开发资源汇总",
