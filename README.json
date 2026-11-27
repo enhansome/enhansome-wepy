@@ -2353,7 +2353,7 @@
                     "open_issues": 33,
                     "owner": "yingye",
                     "repo": "weapp-qrcode",
-                    "stars": 1717,
+                    "stars": 1716,
                     "topics": [
                       "qrcode",
                       "weapp",
@@ -3329,7 +3329,7 @@
                 "open_issues": 1,
                 "owner": "aben1188",
                 "repo": "awesome-uni-app",
-                "stars": 991,
+                "stars": 990,
                 "topics": [
                   "mpvue",
                   "uni-app",
@@ -3348,7 +3348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T21:58:31.114Z",
+    "last_updated": "2026-11-27T21:40:38.860Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome for wepy ! 微信小程序组件化开发框架wepy开发资源汇总",

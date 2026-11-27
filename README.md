@@ -162,7 +162,7 @@
   * [wepy-plugin-img2base64：小程序图片转base64的WePy插件](https://github.com/xwxtwd/wepy-plugin-img2base64) ⚠️ Archived
   * [wepy-upyun\_upload-component：微信小程序又拍云上传组件wepy版](https://github.com/aben1188/wepy-upyun_upload-component) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2018-02-02
     <!-- - [wepy-com-datepicker：微信小程序预约时间组件](https://github.com/jasondu/wepy-com-datepicker) -->
-  * [weapp-qrcode：在微信小程序中，快速生成二维码](https://github.com/yingye/weapp-qrcode) ⭐ 1,717 | 🐛 33 | 🌐 JavaScript | 📅 2023-01-04
+  * [weapp-qrcode：在微信小程序中，快速生成二维码](https://github.com/yingye/weapp-qrcode) ⭐ 1,716 | 🐛 33 | 🌐 JavaScript | 📅 2023-01-04
   * [RxWX: 用于微信小程序的RxJS，支持wepy](https://github.com/yalishizhude/RxWX) ⭐ 165 | 🐛 10 | 🌐 JavaScript | 📅 2022-12-03
   * [wepy-plugin-axios：在 wepy 中使用 axios](https://github.com/hjkcai/wepy-plugin-axios) ⚠️ Archived
   * [wepy\_canvas\_drawer: 微信小程序上canvas绘制图片助手，一个json就制作分享朋友圈图片](https://github.com/simmzl/wepy_canvas_drawer) ⭐ 77 | 🐛 0 | 🌐 JavaScript | 📅 2021-04-27
@@ -234,8 +234,8 @@
 
 ### 特别推荐
 
-* :100: [跨平台多端应用前端框架uni-app一站式开发资源汇总](https://github.com/aben1188/awesome-uni-app) ⭐ 991 | 🐛 1 | 📅 2020-11-08
+* :100: [跨平台多端应用前端框架uni-app一站式开发资源汇总](https://github.com/aben1188/awesome-uni-app) ⭐ 990 | 🐛 1 | 📅 2020-11-08
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
